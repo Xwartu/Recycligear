@@ -2185,3 +2185,393 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.02-21.05.32:944][547]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 3.46 sec)
 [2024.05.02-21.05.32:949][547]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
 [2024.05.02-21.05.32:949][547]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.05.02-21.06.39:144][245]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Crouch_Idle_Rifle_Hip.Crouch_Idle_Rifle_Hip
+[2024.05.02-21.06.39:147][245]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.Crouch_Idle_Rifle_Ironsights
+[2024.05.02-21.06.39:151][245]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.Crouch_Walk_Fwd_Rifle_Ironsights
+[2024.05.02-21.06.39:155][245]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Equip_Pistol_Standing.Equip_Pistol_Standing
+[2024.05.02-21.06.39:160][245]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Fire_Rifle_Ironsights.Fire_Rifle_Ironsights
+[2024.05.02-21.06.39:167][245]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Fire_Rifle_Ironsights.Fire_Rifle_Ironsights, at AnimationSequence/7533b80312545bd32124a781f4e55634ac23536d
+[2024.05.02-21.06.39:173][245]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Hit_React_1.Hit_React_1
+[2024.05.02-21.06.39:173][245]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Hit_React_2.Hit_React_2
+[2024.05.02-21.06.39:180][245]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Hit_React_3.Hit_React_3
+[2024.05.02-21.06.39:197][245]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.Crouch_Walk_Fwd_Rifle_Ironsights, at AnimationSequence/b985fa74b4ca3a9185ff6ae0ce925f1e85dbf724
+[2024.05.02-21.06.39:211][245]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2024.05.02-21.06.39:212][245]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip_Break1.Idle_Rifle_Hip_Break1
+[2024.05.02-21.06.39:212][245]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Equip_Pistol_Standing.Equip_Pistol_Standing, at AnimationSequence/54bcd0e40b37bede098d739cf2f5baa6f1875f91
+[2024.05.02-21.06.39:212][245]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Reload_Rifle_Hip.Reload_Rifle_Hip
+[2024.05.02-21.06.39:215][245]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip_Break2.Idle_Rifle_Hip_Break2
+[2024.05.02-21.06.39:215][245]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Hit_React_1.Hit_React_1, at AnimationSequence/65f74d67271e1ca3ef240d922b416f85314f90c2
+[2024.05.02-21.06.39:215][245]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.Walk_Fwd_Rifle_Ironsights
+[2024.05.02-21.06.39:220][245]LogTexture: Display: Building textures: /Game/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 29.89575 MB), EncodeSpeed: Fast
+[2024.05.02-21.06.39:220][245]LogTexture: Display: Building textures: /Game/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 81.562488 MB), EncodeSpeed: Fast
+[2024.05.02-21.06.39:221][245]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-21.06.39:224][245]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Hit_React_2.Hit_React_2, at AnimationSequence/4423741aae8fe91e0cbe397fa7af1f7912f00f87
+[2024.05.02-21.06.39:225][245]LogTexture: Display: Building textures: /Game/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.T_ML_Aluminum01_N (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 81.562488 MB), EncodeSpeed: Fast
+[2024.05.02-21.06.39:225][245]LogTexture: Display: Building textures: /Game/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.T_ML_Aluminum01 (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 29.89575 MB), EncodeSpeed: Fast
+[2024.05.02-21.06.39:226][245]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2024.05.02-21.06.39:230][245]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Hit_React_3.Hit_React_3, at AnimationSequence/b9f07372f59ba230352702598fb33df0052b7198
+[2024.05.02-21.06.39:241][245]LogObjectTools: Deleting 1 worlds: /Game/AnimStarterPack/Showcase.Showcase
+[2024.05.02-21.06.39:242][245]LogObjectTools: Currently 17 active worlds: /Game/Ancient_Golem/Maps/Ancient_Golem.Ancient_Golem, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_10, /Engine/Transient.World_11, /Engine/Transient.World_12, /Engine/Transient.World_13, /Engine/Transient.World_14, /Engine/Transient.World_15, /Engine/Transient.World_16
+[2024.05.02-21.06.39:267][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.05.02-21.06.39:280][245]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Crouch_Idle_Rifle_Hip.Crouch_Idle_Rifle_Hip, at AnimationSequence/1376120bd842ff8a93195ddb2f09d4b3c06861c0
+[2024.05.02-21.06.39:282][245]LogTexture: Display: Building textures: /Game/AnimStarterPack/Showcase.HQ_Lightmap0_1 (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.479156 MB), EncodeSpeed: Fast
+[2024.05.02-21.06.39:282][245]LogTexture: Display: Building textures: /Game/AnimStarterPack/Showcase.SkyOcclusion0_1 (TFO_AutoDXT, 512x256 x1x1x1) (Required Memory Estimate: 20.895758 MB), EncodeSpeed: Fast
+[2024.05.02-21.06.39:283][245]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Reload_Rifle_Hip.Reload_Rifle_Hip, at AnimationSequence/aee4adc762df98f38152dcfffcacb19bf19d97cb
+[2024.05.02-21.06.39:283][245]LogTexture: Display: Building textures: /Game/AnimStarterPack/Showcase.LQ_Lightmap_0_1 (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 30.229082 MB), EncodeSpeed: Fast
+[2024.05.02-21.06.39:284][245]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.Walk_Fwd_Rifle_Ironsights, at AnimationSequence/a0d6ec7b90d1c9069d55f608852d62d0a946f77e
+[2024.05.02-21.06.39:285][245]LogTexture: Display: Building textures: /Game/AnimStarterPack/UE4_Mannequin/Textures/UE4Man_Logo_N.UE4Man_Logo_N (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 81.562488 MB), EncodeSpeed: Fast
+[2024.05.02-21.06.39:285][245]LogTexture: Display: Building textures: /Game/AnimStarterPack/Showcase.ShadowMapTexture2D_0 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 4.062489 MB), EncodeSpeed: Fast
+[2024.05.02-21.06.39:286][245]LogTexture: Display: Building textures: /Game/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile.UE4_Mannequin_occlusion_Mobile (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 29.89575 MB), EncodeSpeed: Fast
+[2024.05.02-21.06.39:290][245]LogTexture: Display: Building textures: /Game/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.UE4_Mannequin_MAT_MASKA (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 169.145823 MB), EncodeSpeed: Fast
+[2024.05.02-21.06.39:293][245]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.Crouch_Idle_Rifle_Ironsights, at AnimationSequence/4a85474d4825858a963af0f8ae585d47e8b21478
+[2024.05.02-21.06.39:355][245]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Idle_Rifle_Hip_Break1.Idle_Rifle_Hip_Break1, at AnimationSequence/823744b2ea8cdfea534bd7c7edb4eae682634a6a
+[2024.05.02-21.06.39:355][245]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Idle_Rifle_Hip_Break2.Idle_Rifle_Hip_Break2, at AnimationSequence/c4b85e18261878944b25a7e38c295495e5148706
+[2024.05.02-21.06.39:373][245]LogTexture: Display: Building textures: /Game/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin__normals.UE4_Mannequin__normals (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 561.562488 MB), EncodeSpeed: Fast
+[2024.05.02-21.06.40:272][245]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.02-21.06.40:288][245]LogWorld: UWorld::CleanupWorld for Showcase, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-21.06.40:288][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-21.06.40:315][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.05.02-21.06.40:328][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.05.02-21.06.40:341][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.05.02-21.06.41:944][386]LogShaderCompilers: Display: ================================================
+[2024.05.02-21.06.41:944][386]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.02-21.06.41:944][386]LogShaderCompilers: Display: Total job queries 92, among them cache hits 15 (16.30%)
+[2024.05.02-21.06.41:944][386]LogShaderCompilers: Display: Tracking 62 distinct input hashes that result in 31 distinct outputs (50.00%)
+[2024.05.02-21.06.41:944][386]LogShaderCompilers: Display: RAM used: 1.40 MiB of 3.20 GiB budget. Usage: 0.04%
+[2024.05.02-21.06.41:944][386]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.02-21.06.41:944][386]LogShaderCompilers: Display: Shaders Compiled: 62
+[2024.05.02-21.06.41:944][386]LogShaderCompilers: Display: Jobs assigned 77, completed 62 (80.52%)
+[2024.05.02-21.06.41:944][386]LogShaderCompilers: Display: Average time worker was idle: 2319.65 s
+[2024.05.02-21.06.41:944][386]LogShaderCompilers: Display: Time job spent in pending queue: average 0.21 s, longest 1.44 s
+[2024.05.02-21.06.41:944][386]LogShaderCompilers: Display: Job execution time: average 0.82 s, max 1.54 s
+[2024.05.02-21.06.41:944][386]LogShaderCompilers: Display: Job life time (pending + execution): average 1.06 s, max 1.85
+[2024.05.02-21.06.41:944][386]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 7.52 s
+[2024.05.02-21.06.41:944][386]LogShaderCompilers: Display: Jobs were issued in 77 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.02-21.06.41:944][386]LogShaderCompilers: Display: Average processing rate: 8.25 jobs/sec
+[2024.05.02-21.06.41:944][386]LogShaderCompilers: Display: Total thread time: 21.297 s
+[2024.05.02-21.06.41:945][386]LogShaderCompilers: Display: Total thread preprocess time: 0.997 s
+[2024.05.02-21.06.41:945][386]LogShaderCompilers: Display: Percentage time preprocessing: 4.68%
+[2024.05.02-21.06.41:945][386]LogShaderCompilers: Display: Effective parallelization: 2.83 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.05.02-21.06.41:945][386]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.02-21.06.41:945][386]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.57 sec, max 0.57 sec, min 0.57 sec)
+[2024.05.02-21.06.41:945][386]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 0.55 sec, max 0.55 sec, min 0.55 sec)
+[2024.05.02-21.06.41:945][386]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.52 sec, max 0.52 sec, min 0.52 sec)
+[2024.05.02-21.06.41:945][386]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 0.52 sec, max 0.52 sec, min 0.52 sec)
+[2024.05.02-21.06.41:945][386]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2024.05.02-21.06.41:945][386]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.02-21.06.41:945][386]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.67% of total time (compiled    7 times, average 0.42 sec, max 0.49 sec, min 0.35 sec)
+[2024.05.02-21.06.41:945][386]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.40% of total time (compiled    7 times, average 0.35 sec, max 0.43 sec, min 0.30 sec)
+[2024.05.02-21.06.41:945][386]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 8.72% of total time (compiled    4 times, average 0.46 sec, max 0.52 sec, min 0.43 sec)
+[2024.05.02-21.06.41:945][386]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 7.72% of total time (compiled    4 times, average 0.41 sec, max 0.46 sec, min 0.39 sec)
+[2024.05.02-21.06.41:945][386]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.72% of total time (compiled    4 times, average 0.30 sec, max 0.36 sec, min 0.26 sec)
+[2024.05.02-21.06.41:945][386]LogShaderCompilers: Display: ================================================
+[2024.05.02-21.07.34:323][824]LogBlueprint: Warning: [AssetLog] C:\Users\SgCab\Documents\GitHub\Recycligear\RecycligearProject\Content\AnimStarterPack\Ue4ASP_Character.uasset: [Compiler] InputAction Event references unknown Action 'Crouch' for  InputAction Crouch
+[2024.05.02-21.07.34:323][824]LogBlueprint: Warning: [AssetLog] C:\Users\SgCab\Documents\GitHub\Recycligear\RecycligearProject\Content\AnimStarterPack\Ue4ASP_Character.uasset: [Compiler] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2024.05.02-21.07.34:324][824]LogBlueprint: Warning: [AssetLog] C:\Users\SgCab\Documents\GitHub\Recycligear\RecycligearProject\Content\AnimStarterPack\Ue4ASP_Character.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2024.05.02-21.07.34:324][824]LogBlueprint: Warning: [AssetLog] C:\Users\SgCab\Documents\GitHub\Recycligear\RecycligearProject\Content\AnimStarterPack\Ue4ASP_Character.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2024.05.02-21.07.34:324][824]LogBlueprint: Warning: [AssetLog] C:\Users\SgCab\Documents\GitHub\Recycligear\RecycligearProject\Content\AnimStarterPack\Ue4ASP_Character.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2024.05.02-21.07.34:324][824]LogBlueprint: Warning: [AssetLog] C:\Users\SgCab\Documents\GitHub\Recycligear\RecycligearProject\Content\AnimStarterPack\Ue4ASP_Character.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2024.05.02-21.07.34:342][824]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip.Idle_Rifle_Hip
+[2024.05.02-21.07.34:344][824]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Jump_From_Jog.Jump_From_Jog
+[2024.05.02-21.07.34:348][824]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Jump_From_Stand.Jump_From_Stand
+[2024.05.02-21.07.34:352][824]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.Crouch_Walk_Bwd_Rifle_Hip
+[2024.05.02-21.07.34:356][824]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.Crouch_Walk_Fwd_Rifle_Hip
+[2024.05.02-21.07.34:360][824]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.Crouch_Walk_Lt_Rifle_Hip
+[2024.05.02-21.07.34:361][824]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Jump_From_Jog.Jump_From_Jog, at AnimationSequence/703c301a817a93f47a77cdca967c6a0dfd1df71e
+[2024.05.02-21.07.34:376][824]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Jump_From_Stand.Jump_From_Stand, at AnimationSequence/aaa39fc70dddbc03e489bfdbf25d83325ae23223
+[2024.05.02-21.07.34:377][824]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.Crouch_Walk_Rt_Rifle_Hip
+[2024.05.02-21.07.34:378][824]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Jog_Fwd_Rifle.Jog_Fwd_Rifle
+[2024.05.02-21.07.34:381][824]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Jog_Bwd_Rifle.Jog_Bwd_Rifle
+[2024.05.02-21.07.34:396][824]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.Crouch_Walk_Bwd_Rifle_Hip, at AnimationSequence/c2f763ec251479c65330a498967f41872292af09
+[2024.05.02-21.07.34:401][824]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.Crouch_Walk_Fwd_Rifle_Hip, at AnimationSequence/a59fec0d50e2481b6f8a9db09d524ac41e4e0e3d
+[2024.05.02-21.07.34:412][824]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.Crouch_Walk_Lt_Rifle_Hip, at AnimationSequence/0a3de2bb716d90270c77688f94d8d8db48c3c1bf
+[2024.05.02-21.07.34:414][824]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Jog_Lt_Rifle.Jog_Lt_Rifle
+[2024.05.02-21.07.34:419][824]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Jog_Rt_Rifle.Jog_Rt_Rifle
+[2024.05.02-21.07.34:423][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.05.02-21.07.34:424][824]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Jog_Fwd_Rifle.Jog_Fwd_Rifle, at AnimationSequence/7df7d3ffdfa9e04c2dcc00ab8252df997bec47b9
+[2024.05.02-21.07.34:434][824]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Jog_Bwd_Rifle.Jog_Bwd_Rifle, at AnimationSequence/20ec5674df48be17ee74cefab4ba65b7b476eff1
+[2024.05.02-21.07.34:434][824]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.Crouch_Walk_Rt_Rifle_Hip, at AnimationSequence/4e1558f63fde16b6a29fae072de6b794584f053b
+[2024.05.02-21.07.34:444][824]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Jog_Lt_Rifle.Jog_Lt_Rifle, at AnimationSequence/685c5aa2748df1ec21868c5be09daee8943fcec7
+[2024.05.02-21.07.34:451][824]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Jog_Rt_Rifle.Jog_Rt_Rifle, at AnimationSequence/aed5cb2ae397e83a751ac5d0ac10504c76b81bc2
+[2024.05.02-21.07.34:469][824]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Idle_Rifle_Hip.Idle_Rifle_Hip, at AnimationSequence/4d0e95b1691b7ce8f70fce6cda50277b157ac500
+[2024.05.02-21.07.34:546][824]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-21.07.48:998][824]LogSlate: Window 'Replace References?' being destroyed
+[2024.05.02-21.07.49:002][824]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with BP_ThirdPersonCharacter; and then delete them.
+
+Are you sure?
+[2024.05.02-21.07.49:002][824]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.02-21.07.49:017][824]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2024.05.02-21.07.49:022][824]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-21.07.49:022][824]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-21.07.49:492][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.05.02-21.07.49:606][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.05.02-21.07.53:562][824]LogSlate: Window 'Save Content' being destroyed
+[2024.05.02-21.07.53:599][824]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-21.07.53:626][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Ue4ASP_Character" FILE="C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/AnimStarterPack/Ue4ASP_Character.uasset" SILENT=true
+[2024.05.02-21.07.53:627][824]LogSavePackage: Moving output files for package: /Game/AnimStarterPack/Ue4ASP_Character
+[2024.05.02-21.07.53:627][824]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Ue4ASP_CharacterDA924CF047D0753430ED26ABF2408FD5.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/AnimStarterPack/Ue4ASP_Character.uasset'
+[2024.05.02-21.07.53:681][824]LogSavePackage: Moving output files for package: /Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint
+[2024.05.02-21.07.53:682][824]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/UE4ASP_HeroTPP_AnimBlueprintF554879A4E8270BE01AC4C885F2A8111.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.uasset'
+[2024.05.02-21.07.53:695][824]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 3.56 sec)
+[2024.05.02-21.07.53:701][824]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.02-21.07.53:701][824]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/AnimStarterPack/Ue4ASP_Character.Default__Ue4ASP_Character_C
+[2024.05.02-21.07.53:702][824]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character_C
+[2024.05.02-21.07.53:702][824]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character
+[2024.05.02-21.07.53:702][824]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint
+[2024.05.02-21.08.16:660][504]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Stand_To_Prone.Stand_To_Prone
+[2024.05.02-21.08.16:666][504]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Aim_Space_Hip.Aim_Space_Hip
+[2024.05.02-21.08.16:674][504]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Aim_Space_Ironsights.Aim_Space_Ironsights
+[2024.05.02-21.08.16:683][504]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.Crouch_to_Stand_Rifle_Hip
+[2024.05.02-21.08.16:688][504]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Crouch_to_Stand_Rifle_Ironsights.Crouch_to_Stand_Rifle_Ironsights
+[2024.05.02-21.08.16:696][504]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.Crouch_to_Stand_Rifle_Hip, at AnimationSequence/fb572df41f08618a4f21033579e9c22bf0a51058
+[2024.05.02-21.08.16:697][504]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.Crouch_Walk_Bwd_Rifle_Ironsights
+[2024.05.02-21.08.16:699][504]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Stand_To_Prone.Stand_To_Prone, at AnimationSequence/a14e4951273473adc261e98486276fed194502e8
+[2024.05.02-21.08.16:699][504]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.Crouch_Walk_Lt_Rifle_Ironsights
+[2024.05.02-21.08.16:709][504]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Crouch_to_Stand_Rifle_Ironsights.Crouch_to_Stand_Rifle_Ironsights, at AnimationSequence/0e7ca6ec202c60f411e577218fc4c99deefebb15
+[2024.05.02-21.08.16:709][504]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.Crouch_Walk_Rt_Rifle_Ironsights
+[2024.05.02-21.08.16:719][504]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Death_1.Death_1
+[2024.05.02-21.08.16:721][504]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Aim_Space_Hip.Aim_Space_Hip, at AnimationSequence/15505c71e360da56bfc24aa55b58d66f017f8ace
+[2024.05.02-21.08.16:729][504]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Death_2.Death_2
+[2024.05.02-21.08.16:731][504]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Aim_Space_Ironsights.Aim_Space_Ironsights, at AnimationSequence/bfedf7be7b16bb4b7944244a1061cc79165b77b5
+[2024.05.02-21.08.16:737][504]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.Crouch_Walk_Bwd_Rifle_Ironsights, at AnimationSequence/34f3188a121e3f5cf892b9765df94b84c0cf9ec7
+[2024.05.02-21.08.16:739][504]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Death_3.Death_3
+[2024.05.02-21.08.16:742][504]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.Crouch_Walk_Lt_Rifle_Ironsights, at AnimationSequence/9a6b975cf00edc335f548d5330630f087db40e90
+[2024.05.02-21.08.16:748][504]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Death_Ironsights_1.Death_Ironsights_1
+[2024.05.02-21.08.16:752][504]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.Crouch_Walk_Rt_Rifle_Ironsights, at AnimationSequence/57ce5f01c1d0c15402b783aa2b3432412fd64ab7
+[2024.05.02-21.08.16:759][504]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Death_Ironsights_2.Death_Ironsights_2
+[2024.05.02-21.08.16:772][504]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Equip_Rifle_Standing.Equip_Rifle_Standing
+[2024.05.02-21.08.16:774][504]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Fire_Rifle_Hip.Fire_Rifle_Hip
+[2024.05.02-21.08.16:775][504]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Death_1.Death_1, at AnimationSequence/54f885a363fbe263d0e3dac3a810eff650962f10
+[2024.05.02-21.08.16:779][504]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Death_2.Death_2, at AnimationSequence/a6ca6085adb0daafa38390b3327f6f94068812b2
+[2024.05.02-21.08.16:782][504]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Fire_Shotgun_Hip.Fire_Shotgun_Hip
+[2024.05.02-21.08.16:782][504]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Fire_Rifle_Hip.Fire_Rifle_Hip, at AnimationSequence/c5fddbbbb2b7c08f241b8ad6830d43504d8e8b7c
+[2024.05.02-21.08.16:794][504]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Fire_Shotgun_Ironsights.Fire_Shotgun_Ironsights
+[2024.05.02-21.08.16:794][504]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Hit_React_4.Hit_React_4
+[2024.05.02-21.08.16:798][504]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Death_3.Death_3, at AnimationSequence/a21a88b1604173728db2eecc1aeb54ce82659698
+[2024.05.02-21.08.16:810][504]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Idle_Pistol.Idle_Pistol
+[2024.05.02-21.08.16:810][504]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Ironsights.Idle_Rifle_Ironsights
+[2024.05.02-21.08.16:812][504]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Fire_Shotgun_Hip.Fire_Shotgun_Hip, at AnimationSequence/f97f3a4f0023305f5634f6784b7b4083cf678fda
+[2024.05.02-21.08.16:813][504]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Death_Ironsights_1.Death_Ironsights_1, at AnimationSequence/bf952f8528aad4483409e882980acc7ec4d29e36
+[2024.05.02-21.08.16:814][504]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Jump_From_Stand_Ironsights.Jump_From_Stand_Ironsights
+[2024.05.02-21.08.16:815][504]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Death_Ironsights_2.Death_Ironsights_2, at AnimationSequence/ef798f986b7b56cb397ba07717fe4986f362861a
+[2024.05.02-21.08.16:820][504]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Hit_React_4.Hit_React_4, at AnimationSequence/1b37e7fd84f81b35bed7d84806a2c168f61d9504
+[2024.05.02-21.08.16:823][504]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Prone_Death_1.Prone_Death_1
+[2024.05.02-21.08.16:827][504]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Equip_Rifle_Standing.Equip_Rifle_Standing, at AnimationSequence/d85aade6ea6730cd0bca5517976f184fa0a266af
+[2024.05.02-21.08.16:833][504]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Fire_Shotgun_Ironsights.Fire_Shotgun_Ironsights, at AnimationSequence/e46e64c908d01110d86f7952a49ae12262c0c7bd
+[2024.05.02-21.08.16:837][504]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Prone_Death_2.Prone_Death_2
+[2024.05.02-21.08.16:839][504]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Prone_Fire_1.Prone_Fire_1
+[2024.05.02-21.08.16:843][504]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Jump_From_Stand_Ironsights.Jump_From_Stand_Ironsights, at AnimationSequence/9c45781e9be95874d1a7d08f67d147ce89d6c7b2
+[2024.05.02-21.08.16:846][504]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Prone_Death_1.Prone_Death_1, at AnimationSequence/02cb97c62130e65c8a1ffb49b196f4ec27908f89
+[2024.05.02-21.08.16:846][504]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Prone_Fire_2.Prone_Fire_2
+[2024.05.02-21.08.16:846][504]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Prone_Fire_1.Prone_Fire_1, at AnimationSequence/5bab27bf0ba00fe35f84fbc0c4b07c15876d1e1b
+[2024.05.02-21.08.16:851][504]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Prone_Idle.Prone_Idle
+[2024.05.02-21.08.16:853][504]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Prone_Fire_2.Prone_Fire_2, at AnimationSequence/57eed480f5042cb5f349a09638cdbd056355dcc3
+[2024.05.02-21.08.16:881][504]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Prone_Reload_Rifle.Prone_Reload_Rifle
+[2024.05.02-21.08.16:884][504]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Prone_Reload_Shotgun.Prone_Reload_Shotgun
+[2024.05.02-21.08.16:889][504]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Prone_To_Stand.Prone_To_Stand
+[2024.05.02-21.08.16:896][504]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Prone_Death_2.Prone_Death_2, at AnimationSequence/44515bbf464298536d76d1bd628f9c9bf452534a
+[2024.05.02-21.08.16:944][504]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Reload_Shotgun_Hip.Reload_Shotgun_Hip
+[2024.05.02-21.08.16:944][504]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Reload_Pistol.Reload_Pistol
+[2024.05.02-21.08.16:944][504]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Reload_Rifle_Ironsights.Reload_Rifle_Ironsights
+[2024.05.02-21.08.16:945][504]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Reload_Shotgun_Ironsights.Reload_Shotgun_Ironsights
+[2024.05.02-21.08.16:946][504]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Sprint_Fwd_Rifle.Sprint_Fwd_Rifle
+[2024.05.02-21.08.16:946][504]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Idle_Pistol.Idle_Pistol, at AnimationSequence/df8d3624bf0782b10d5541ef6a5f68ebc3c4dd54
+[2024.05.02-21.08.16:946][504]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.Stand_to_Crouch_Rifle_Ironsights
+[2024.05.02-21.08.16:948][504]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.Stand_to_Crouch_Rifle_Hip
+[2024.05.02-21.08.16:949][504]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Idle_Rifle_Ironsights.Idle_Rifle_Ironsights, at AnimationSequence/7cefe248d3b0f4ccdb4a052a1af6ab725b7b96cd
+[2024.05.02-21.08.16:963][504]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Prone_To_Stand.Prone_To_Stand, at AnimationSequence/a87ed77fa34871aae49d404e98ec56e4d3d40e89
+[2024.05.02-21.08.16:976][504]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Prone_Reload_Rifle.Prone_Reload_Rifle, at AnimationSequence/9b95629a8c12e7426e5b1040ca0bb36fefc42f10
+[2024.05.02-21.08.16:982][504]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.Stand_to_Crouch_Rifle_Ironsights, at AnimationSequence/1584715e026b862f96d87d4759bd22e0b9629628
+[2024.05.02-21.08.16:991][504]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.Stand_to_Crouch_Rifle_Hip, at AnimationSequence/3d0ec5df186fdfcdcc0b6a7e472c78caa90e4121
+[2024.05.02-21.08.17:001][504]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-21.08.17:010][504]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Sprint_Fwd_Rifle.Sprint_Fwd_Rifle, at AnimationSequence/9fe06881d12c2158dc3644911b3db052b2d3a261
+[2024.05.02-21.08.17:028][504]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Reload_Pistol.Reload_Pistol, at AnimationSequence/fb1ce507c20d2d2a3e9efb70e9fea42c98008f97
+[2024.05.02-21.08.17:033][504]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-21.08.17:037][504]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Prone_Idle.Prone_Idle, at AnimationSequence/615a5edd5016176507a76c5e2ebc429ec36cef45
+[2024.05.02-21.08.17:040][504]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Prone_Reload_Shotgun.Prone_Reload_Shotgun, at AnimationSequence/999eacbbe6d00a18ee2c49275e49bdb8e53c267a
+[2024.05.02-21.08.17:045][504]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Reload_Rifle_Ironsights.Reload_Rifle_Ironsights, at AnimationSequence/81c7feca9b08759bdd5d671ebd5d5b15e42cdddb
+[2024.05.02-21.08.17:092][504]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Reload_Shotgun_Hip.Reload_Shotgun_Hip, at AnimationSequence/c4044fd26a7b32a8d9dd0b04a4008f6cf81688cd
+[2024.05.02-21.08.17:105][504]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Reload_Shotgun_Ironsights.Reload_Shotgun_Ironsights, at AnimationSequence/eced2ccac6d7df3e6731fc5c019b732439d90aa1
+[2024.05.02-21.08.21:220][504]LogSlate: Window 'Pick Replacement Skeleton' being destroyed
+[2024.05.02-21.08.46:607][992]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-21.08.46:607][992]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-21.08.46:620][992]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-21.08.46:620][992]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-21.08.46:719][992]LogViewport: Scene viewport resized to 480x360, mode Windowed.
+[2024.05.02-21.08.46:777][992]LogViewport: Scene viewport resized to 480x360, mode Windowed.
+[2024.05.02-21.09.14:238][ 62]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_UELogo_Mask.T_UELogo_Mask (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2024.05.02-21.09.14:241][ 62]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01_N.T_ML_Aluminum01_N (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 81.562488 MB), EncodeSpeed: Fast
+[2024.05.02-21.09.14:241][ 62]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 81.562488 MB), EncodeSpeed: Fast
+[2024.05.02-21.09.14:242][ 62]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01.T_ML_Aluminum01 (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2024.05.02-21.09.14:242][ 62]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2024.05.02-21.09.14:244][ 62]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_UELogo_N_TGA.T_UELogo_N_TGA (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 81.562488 MB), EncodeSpeed: Fast
+[2024.05.02-21.09.14:248][ 62]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin_MAT_MASKA.T_UE4_Mannequin_MAT_MASKA (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 169.145823 MB), EncodeSpeed: Fast
+[2024.05.02-21.09.14:248][ 62]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2024.05.02-21.09.14:294][ 62]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin.SK_Mannequin
+[2024.05.02-21.09.14:331][ 62]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin__normals.T_UE4_Mannequin__normals (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 561.562488 MB), EncodeSpeed: Fast
+[2024.05.02-21.09.14:340][ 62]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.Manny_calf_l_anim
+[2024.05.02-21.09.14:349][ 62]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.Manny_calf_r_anim
+[2024.05.02-21.09.14:356][ 62]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.Manny_clavicle_l_anim
+[2024.05.02-21.09.14:358][ 62]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.Manny_calf_l_anim, at AnimationSequence/219b1585d847ffc13b56e87cee7df39a0ec31868
+[2024.05.02-21.09.14:365][ 62]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.Manny_clavicle_r_anim
+[2024.05.02-21.09.14:366][ 62]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.Manny_calf_r_anim, at AnimationSequence/c3447510b4f69a7818c5b257d6789ab7573f7831
+[2024.05.02-21.09.14:370][ 62]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.Manny_clavicle_l_anim, at AnimationSequence/6f902faeba0bc9182b95305a48bf5b50ecf0831b
+[2024.05.02-21.09.14:372][ 62]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.Manny_foot_l_anim
+[2024.05.02-21.09.14:380][ 62]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.Manny_foot_l_anim, at AnimationSequence/cc8576ab2b69b5c2774981b3a3d6a25c31aa21fd
+[2024.05.02-21.09.14:380][ 62]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.Manny_foot_r_anim
+[2024.05.02-21.09.14:382][ 62]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.Manny_clavicle_r_anim, at AnimationSequence/8b354221cb640593b54aad7a031e79043988136a
+[2024.05.02-21.09.14:388][ 62]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.Manny_foot_r_anim, at AnimationSequence/2932ee3af2473cbab9c6190cd33adf9b579dfcc9
+[2024.05.02-21.09.14:390][ 62]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.Manny_hand_l_anim
+[2024.05.02-21.09.14:404][ 62]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.Manny_hand_r_anim
+[2024.05.02-21.09.14:406][ 62]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.Manny_hand_l_anim, at AnimationSequence/d5ceaca062493e42232f60993d90d28c8dd6df7b
+[2024.05.02-21.09.14:407][ 62]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.Manny_lowerarm_l_anim
+[2024.05.02-21.09.14:417][ 62]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.Manny_lowerarm_r_anim
+[2024.05.02-21.09.14:419][ 62]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.Manny_hand_r_anim, at AnimationSequence/d7fe426629cb38dab20f167376645fcaa6d62267
+[2024.05.02-21.09.14:426][ 62]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.Manny_thigh_l_anim
+[2024.05.02-21.09.14:432][ 62]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.Manny_lowerarm_l_anim, at AnimationSequence/a6630cbd5b02b4f5e5cc94078642ae45130b8bc7
+[2024.05.02-21.09.14:435][ 62]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.Manny_thigh_r_anim
+[2024.05.02-21.09.14:440][ 62]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.Manny_lowerarm_r_anim, at AnimationSequence/5a930e4d9fde5ccf15c434eb6d6f39453c787c48
+[2024.05.02-21.09.14:442][ 62]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.Manny_upperarm_l_anim
+[2024.05.02-21.09.14:451][ 62]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.Manny_upperarm_r_anim
+[2024.05.02-21.09.14:458][ 62]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.Manny_thigh_l_anim, at AnimationSequence/3cf0a7c524203ad9f49c9ec71753619d1e5e1eb7
+[2024.05.02-21.09.14:468][ 62]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.Manny_thigh_r_anim, at AnimationSequence/50428b6ae280ca9e233b3fe5c9f23edcb5fb000c
+[2024.05.02-21.09.14:471][ 62]LogSkeletalMesh: Building Skeletal Mesh SKM_Manny...
+[2024.05.02-21.09.14:477][ 62]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.Manny_upperarm_l_anim, at AnimationSequence/8f8923f7cbb48e2f30ce05b1150a9c309565f04c
+[2024.05.02-21.09.14:487][ 62]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.Manny_upperarm_r_anim, at AnimationSequence/458312d8ca3d744c60878b15ba03242b2d2a010c
+[2024.05.02-21.09.15:638][129]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-21.09.15:707][130]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-21.09.15:907][138]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
+[2024.05.02-21.09.15:907][138]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 3 
+[2024.05.02-21.09.18:211][296]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-21.09.19:766][355]LogSkeletalMesh: Built Skeletal Mesh [5.31s] /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2024.05.02-21.09.19:800][356]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-21.09.35:170][388]LogSlate: Window 'Duplicate and Retarget Animation Assets' being destroyed
+[2024.05.02-21.09.35:256][388]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/fps_Stand_To_Prone.fps_Stand_To_Prone
+[2024.05.02-21.09.35:263][388]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/fps_Prone_Death_2.fps_Prone_Death_2
+[2024.05.02-21.09.35:270][388]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/fps_Prone_Fire_1.fps_Prone_Fire_1
+[2024.05.02-21.09.35:276][388]LogAnimationCompression: Display: Storing compressed animation data for /Game/fps_Prone_Fire_1.fps_Prone_Fire_1, at AnimationSequence/715a4023ae4b0e7b2522ab352299df1ecc46a598
+[2024.05.02-21.09.35:279][388]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/fps_Prone_Fire_2.fps_Prone_Fire_2
+[2024.05.02-21.09.35:285][388]LogAnimationCompression: Display: Storing compressed animation data for /Game/fps_Prone_Fire_2.fps_Prone_Fire_2, at AnimationSequence/43abcac8532205638fcf6a803ad34b980584705a
+[2024.05.02-21.09.35:290][388]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/fps_Prone_Idle.fps_Prone_Idle
+[2024.05.02-21.09.35:294][388]LogAnimationCompression: Display: Storing compressed animation data for /Game/fps_Stand_To_Prone.fps_Stand_To_Prone, at AnimationSequence/b097c33cc8b6e6ef19451ac8baca460158028969
+[2024.05.02-21.09.35:298][388]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/fps_Prone_Reload_Rifle.fps_Prone_Reload_Rifle
+[2024.05.02-21.09.35:307][388]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/fps_Prone_Reload_Shotgun.fps_Prone_Reload_Shotgun
+[2024.05.02-21.09.35:312][388]LogAnimationCompression: Display: Storing compressed animation data for /Game/fps_Prone_Death_2.fps_Prone_Death_2, at AnimationSequence/fe0bac1dae8d96484cdfc301bbfa9ff5c163164a
+[2024.05.02-21.09.35:316][388]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/fps_Prone_To_Stand.fps_Prone_To_Stand
+[2024.05.02-21.09.35:327][388]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/fps_Reload_Pistol.fps_Reload_Pistol
+[2024.05.02-21.09.35:356][388]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/fps_Reload_Rifle_Hip.fps_Reload_Rifle_Hip
+[2024.05.02-21.09.35:356][388]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/fps_Reload_Rifle_Ironsights.fps_Reload_Rifle_Ironsights
+[2024.05.02-21.09.35:358][388]LogAnimationCompression: Display: Storing compressed animation data for /Game/fps_Prone_To_Stand.fps_Prone_To_Stand, at AnimationSequence/238388120425229efd2837fe59972046c6e84ac4
+[2024.05.02-21.09.35:360][388]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/fps_Reload_Shotgun_Hip.fps_Reload_Shotgun_Hip
+[2024.05.02-21.09.35:387][388]LogAnimationCompression: Display: Storing compressed animation data for /Game/fps_Reload_Pistol.fps_Reload_Pistol, at AnimationSequence/4f08c1e96f4777f732177fca8690a8d05bb46711
+[2024.05.02-21.09.35:391][388]LogAnimationCompression: Display: Storing compressed animation data for /Game/fps_Prone_Reload_Rifle.fps_Prone_Reload_Rifle, at AnimationSequence/0ee55539e39e034c14ac25b117afe060ac35cf81
+[2024.05.02-21.09.35:408][388]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/fps_Reload_Shotgun_Ironsights.fps_Reload_Shotgun_Ironsights
+[2024.05.02-21.09.35:412][388]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/fps_Sprint_Fwd_Rifle.fps_Sprint_Fwd_Rifle
+[2024.05.02-21.09.35:415][388]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/fps_Stand_to_Crouch_Rifle_Ironsights.fps_Stand_to_Crouch_Rifle_Ironsights
+[2024.05.02-21.09.35:415][388]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/fps_Stand_to_Crouch_Rifle_Hip.fps_Stand_to_Crouch_Rifle_Hip
+[2024.05.02-21.09.35:423][388]LogAnimationCompression: Display: Storing compressed animation data for /Game/fps_Reload_Rifle_Hip.fps_Reload_Rifle_Hip, at AnimationSequence/6e9bebac92f6014b35dd0b0ec7ecba7f03555844
+[2024.05.02-21.09.35:426][388]LogAnimationCompression: Display: Storing compressed animation data for /Game/fps_Prone_Reload_Shotgun.fps_Prone_Reload_Shotgun, at AnimationSequence/8d3704a8a566170754b22f3d2a00acd97b0410ca
+[2024.05.02-21.09.35:439][388]LogAnimationCompression: Display: Storing compressed animation data for /Game/fps_Reload_Rifle_Ironsights.fps_Reload_Rifle_Ironsights, at AnimationSequence/21e4d0358f143ed972c5ae3c19789206d8e81099
+[2024.05.02-21.09.35:444][388]LogAnimationCompression: Display: Storing compressed animation data for /Game/fps_Stand_to_Crouch_Rifle_Ironsights.fps_Stand_to_Crouch_Rifle_Ironsights, at AnimationSequence/8f837fee53d564226e74bfe7f1cb4fe92a817bbf
+[2024.05.02-21.09.35:448][388]LogAnimationCompression: Display: Storing compressed animation data for /Game/fps_Sprint_Fwd_Rifle.fps_Sprint_Fwd_Rifle, at AnimationSequence/b8d8049827a4bd45cbde9f6ab0fcf7f4a187b15e
+[2024.05.02-21.09.35:451][388]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/fps_Stand_To_Prone.fps_Stand_To_Prone
+[2024.05.02-21.09.35:452][388]LogAnimationCompression: Display: Storing compressed animation data for /Game/fps_Stand_To_Prone.fps_Stand_To_Prone, at AnimationSequence/b119c32599d1e3bd5b09c331a7ac676f886e0182
+[2024.05.02-21.09.35:455][388]LogAnimationCompression: Display: Storing compressed animation data for /Game/fps_Stand_to_Crouch_Rifle_Hip.fps_Stand_to_Crouch_Rifle_Hip, at AnimationSequence/f7bd41b96fc58959dd012423451395d2e9d9ece5
+[2024.05.02-21.09.35:472][388]LogAnimationCompression: Display: Storing compressed animation data for /Game/fps_Prone_Idle.fps_Prone_Idle, at AnimationSequence/7305da5d04d8d324ee849d2331e12965437d27a5
+[2024.05.02-21.09.35:490][388]LogAnimationCompression: Display: Storing compressed animation data for /Game/fps_Reload_Shotgun_Hip.fps_Reload_Shotgun_Hip, at AnimationSequence/717fb278809dd639360a01369528670ec74b3f21
+[2024.05.02-21.09.35:500][388]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/fps_Prone_Death_2.fps_Prone_Death_2
+[2024.05.02-21.09.35:526][388]LogAnimationCompression: Display: Storing compressed animation data for /Game/fps_Reload_Shotgun_Ironsights.fps_Reload_Shotgun_Ironsights, at AnimationSequence/9f5dbf6c57b9c7f9d6387aef848794305c7bc7c1
+[2024.05.02-21.09.35:543][388]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/fps_Prone_Fire_1.fps_Prone_Fire_1
+[2024.05.02-21.09.35:588][388]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/fps_Prone_Fire_2.fps_Prone_Fire_2
+[2024.05.02-21.09.35:631][388]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/fps_Prone_Idle.fps_Prone_Idle
+[2024.05.02-21.09.35:675][388]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/fps_Prone_Reload_Rifle.fps_Prone_Reload_Rifle
+[2024.05.02-21.09.35:718][388]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/fps_Prone_Reload_Shotgun.fps_Prone_Reload_Shotgun
+[2024.05.02-21.09.35:761][388]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/fps_Prone_To_Stand.fps_Prone_To_Stand
+[2024.05.02-21.09.35:804][388]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/fps_Reload_Pistol.fps_Reload_Pistol
+[2024.05.02-21.09.35:847][388]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/fps_Reload_Rifle_Hip.fps_Reload_Rifle_Hip
+[2024.05.02-21.09.35:892][388]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/fps_Reload_Rifle_Ironsights.fps_Reload_Rifle_Ironsights
+[2024.05.02-21.09.35:935][388]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/fps_Reload_Shotgun_Hip.fps_Reload_Shotgun_Hip
+[2024.05.02-21.09.35:977][388]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/fps_Reload_Shotgun_Ironsights.fps_Reload_Shotgun_Ironsights
+[2024.05.02-21.09.36:020][388]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/fps_Sprint_Fwd_Rifle.fps_Sprint_Fwd_Rifle
+[2024.05.02-21.09.36:065][388]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/fps_Stand_to_Crouch_Rifle_Hip.fps_Stand_to_Crouch_Rifle_Hip
+[2024.05.02-21.09.36:108][388]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/fps_Stand_to_Crouch_Rifle_Ironsights.fps_Stand_to_Crouch_Rifle_Ironsights
+[2024.05.02-21.09.36:128][388]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.05.02-21.09.36:139][388]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.05.02-21.09.36:140][388]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/fps_Stand_To_Prone.fps_Stand_To_Prone
+[2024.05.02-21.09.36:151][388]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.05.02-21.09.36:151][388]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/fps_Prone_Death_2.fps_Prone_Death_2
+[2024.05.02-21.09.36:156][388]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.05.02-21.09.36:156][388]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/fps_Prone_Fire_1.fps_Prone_Fire_1
+[2024.05.02-21.09.36:161][388]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.05.02-21.09.36:161][388]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/fps_Prone_Fire_2.fps_Prone_Fire_2
+[2024.05.02-21.09.36:163][388]LogAnimationCompression: Display: Storing compressed animation data for /Game/fps_Prone_Fire_1.fps_Prone_Fire_1, at AnimationSequence/a87dd52a6b3c4435677ac75d582a4d142618c9d7
+[2024.05.02-21.09.36:168][388]LogAnimationCompression: Display: Storing compressed animation data for /Game/fps_Prone_Fire_2.fps_Prone_Fire_2, at AnimationSequence/13429ac631dcb01ade5b4ee2cb21923cdfed0c2d
+[2024.05.02-21.09.36:182][388]LogAnimationCompression: Display: Storing compressed animation data for /Game/fps_Stand_To_Prone.fps_Stand_To_Prone, at AnimationSequence/79d17e7306991cc871197ee03e2c15fbf4d308b1
+[2024.05.02-21.09.36:202][388]LogAnimationCompression: Display: Storing compressed animation data for /Game/fps_Prone_Death_2.fps_Prone_Death_2, at AnimationSequence/6f23b5793bce8f68ee6c8e1604f67d859a034015
+[2024.05.02-21.09.36:203][388]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.05.02-21.09.36:203][388]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/fps_Prone_Idle.fps_Prone_Idle
+[2024.05.02-21.09.36:228][388]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.05.02-21.09.36:228][388]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/fps_Prone_Reload_Rifle.fps_Prone_Reload_Rifle
+[2024.05.02-21.09.36:256][388]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.05.02-21.09.36:256][388]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/fps_Prone_Reload_Shotgun.fps_Prone_Reload_Shotgun
+[2024.05.02-21.09.36:270][388]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.05.02-21.09.36:270][388]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/fps_Prone_To_Stand.fps_Prone_To_Stand
+[2024.05.02-21.09.36:285][388]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.05.02-21.09.36:285][388]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/fps_Reload_Pistol.fps_Reload_Pistol
+[2024.05.02-21.09.36:305][388]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.05.02-21.09.36:311][388]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/fps_Reload_Rifle_Hip.fps_Reload_Rifle_Hip
+[2024.05.02-21.09.36:316][388]LogAnimationCompression: Display: Storing compressed animation data for /Game/fps_Prone_To_Stand.fps_Prone_To_Stand, at AnimationSequence/b9a0782efae29f834c7e43b30f2820dbddf57530
+[2024.05.02-21.09.36:320][388]LogAnimationCompression: Display: Storing compressed animation data for /Game/fps_Prone_Reload_Rifle.fps_Prone_Reload_Rifle, at AnimationSequence/b9ee1c3e088c3608ca48aa15e76e4fa40e3a21da
+[2024.05.02-21.09.36:324][388]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.05.02-21.09.36:324][388]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/fps_Reload_Rifle_Ironsights.fps_Reload_Rifle_Ironsights
+[2024.05.02-21.09.36:347][388]LogAnimationCompression: Display: Storing compressed animation data for /Game/fps_Reload_Pistol.fps_Reload_Pistol, at AnimationSequence/c57944c99ce88fd00ab76cd587fb34abe3121464
+[2024.05.02-21.09.36:356][388]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.05.02-21.09.36:356][388]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/fps_Reload_Shotgun_Hip.fps_Reload_Shotgun_Hip
+[2024.05.02-21.09.36:372][388]LogAnimationCompression: Display: Storing compressed animation data for /Game/fps_Reload_Rifle_Hip.fps_Reload_Rifle_Hip, at AnimationSequence/ad9f72787f825795095110f5283f2fed15ec3a68
+[2024.05.02-21.09.36:373][388]LogAnimationCompression: Display: Storing compressed animation data for /Game/fps_Prone_Idle.fps_Prone_Idle, at AnimationSequence/5e3ae2de19b2016ba4e22ca098fe701ee9e366b5
+[2024.05.02-21.09.36:374][388]LogAnimationCompression: Display: Storing compressed animation data for /Game/fps_Prone_Reload_Shotgun.fps_Prone_Reload_Shotgun, at AnimationSequence/f92c8e77b92577b802b8cf0cfa71ff367bd22882
+[2024.05.02-21.09.36:384][388]LogAnimationCompression: Display: Storing compressed animation data for /Game/fps_Reload_Rifle_Ironsights.fps_Reload_Rifle_Ironsights, at AnimationSequence/9adb74ea19b423f041b2db21d447e0336f2095d0
+[2024.05.02-21.09.36:384][388]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.05.02-21.09.36:385][388]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/fps_Reload_Shotgun_Ironsights.fps_Reload_Shotgun_Ironsights
+[2024.05.02-21.09.36:393][388]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.05.02-21.09.36:393][388]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/fps_Sprint_Fwd_Rifle.fps_Sprint_Fwd_Rifle
+[2024.05.02-21.09.36:402][388]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.05.02-21.09.36:402][388]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/fps_Stand_to_Crouch_Rifle_Hip.fps_Stand_to_Crouch_Rifle_Hip
+[2024.05.02-21.09.36:411][388]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/fps_Stand_to_Crouch_Rifle_Ironsights.fps_Stand_to_Crouch_Rifle_Ironsights
+[2024.05.02-21.09.36:411][388]LogTemp: Display: Duplicate and Retarget - New Asset Created: fps_Stand_To_Prone
+[2024.05.02-21.09.36:411][388]LogTemp: Display: Duplicate and Retarget - New Asset Created: fps_Prone_Death_2
+[2024.05.02-21.09.36:411][388]LogTemp: Display: Duplicate and Retarget - New Asset Created: fps_Prone_Fire_1
+[2024.05.02-21.09.36:411][388]LogTemp: Display: Duplicate and Retarget - New Asset Created: fps_Prone_Fire_2
+[2024.05.02-21.09.36:411][388]LogTemp: Display: Duplicate and Retarget - New Asset Created: fps_Prone_Idle
+[2024.05.02-21.09.36:411][388]LogTemp: Display: Duplicate and Retarget - New Asset Created: fps_Prone_Reload_Rifle
+[2024.05.02-21.09.36:411][388]LogTemp: Display: Duplicate and Retarget - New Asset Created: fps_Prone_Reload_Shotgun
+[2024.05.02-21.09.36:412][388]LogTemp: Display: Duplicate and Retarget - New Asset Created: fps_Prone_To_Stand
+[2024.05.02-21.09.36:412][388]LogTemp: Display: Duplicate and Retarget - New Asset Created: fps_Reload_Pistol
+[2024.05.02-21.09.36:412][388]LogTemp: Display: Duplicate and Retarget - New Asset Created: fps_Reload_Rifle_Hip
+[2024.05.02-21.09.36:412][388]LogTemp: Display: Duplicate and Retarget - New Asset Created: fps_Reload_Rifle_Ironsights
+[2024.05.02-21.09.36:412][388]LogTemp: Display: Duplicate and Retarget - New Asset Created: fps_Reload_Shotgun_Hip
+[2024.05.02-21.09.36:412][388]LogTemp: Display: Duplicate and Retarget - New Asset Created: fps_Reload_Shotgun_Ironsights
+[2024.05.02-21.09.36:412][388]LogTemp: Display: Duplicate and Retarget - New Asset Created: fps_Sprint_Fwd_Rifle
+[2024.05.02-21.09.36:412][388]LogTemp: Display: Duplicate and Retarget - New Asset Created: fps_Stand_to_Crouch_Rifle_Hip
+[2024.05.02-21.09.36:412][388]LogTemp: Display: Duplicate and Retarget - New Asset Created: fps_Stand_to_Crouch_Rifle_Ironsights
+[2024.05.02-21.09.36:423][388]LogAnimationCompression: Display: Storing compressed animation data for /Game/fps_Stand_to_Crouch_Rifle_Hip.fps_Stand_to_Crouch_Rifle_Hip, at AnimationSequence/3887ce3c6416c023c909c6f34e34d36193cf5f64
+[2024.05.02-21.09.36:424][388]LogAnimationCompression: Display: Storing compressed animation data for /Game/fps_Sprint_Fwd_Rifle.fps_Sprint_Fwd_Rifle, at AnimationSequence/5d251f42a1b755dde0f6c7590f1df69489e3ff1d
+[2024.05.02-21.09.36:436][388]LogAnimationCompression: Display: Storing compressed animation data for /Game/fps_Stand_to_Crouch_Rifle_Ironsights.fps_Stand_to_Crouch_Rifle_Ironsights, at AnimationSequence/3ad0013e96f3cccd6cb22e23f3112057d89d3324
+[2024.05.02-21.09.36:465][388]LogAnimationCompression: Display: Storing compressed animation data for /Game/fps_Reload_Shotgun_Hip.fps_Reload_Shotgun_Hip, at AnimationSequence/8e4e80c3ebd0e73db63d9054aa30b99ee22897ea
+[2024.05.02-21.09.36:490][388]LogAnimationCompression: Display: Storing compressed animation data for /Game/fps_Reload_Shotgun_Ironsights.fps_Reload_Shotgun_Ironsights, at AnimationSequence/ceb36d103ff87ad95c2d24b941cf4ed75a5a74e5
+[2024.05.02-21.09.36:533][388]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-21.09.36:533][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-21.09.36:536][388]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-21.09.36:536][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-21.10.22:032][415]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Ancient_Golem/Demo/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2024.05.02-21.10.22:034][415]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-21.10.22:034][415]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-21.10.22:127][415]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-21.10.22:127][415]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-21.10.22:175][415]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.02-21.10.22:402][415]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-21.10.22:402][415]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-21.10.22:466][415]LogViewport: Scene viewport resized to 615x517, mode Windowed.
+[2024.05.02-21.10.26:316][613]LogViewport: Scene viewport resized to 953x887, mode Windowed.
+[2024.05.02-21.11.02:648][447]LogSlate: Took 0.000978 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.05.02-21.11.02:832][461]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Deleting All Animation Curve entirely.

@@ -6,7 +6,10 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/StarterContent/Materials/M_AssetPlatform.uasset",
-				"C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/AnimStarterPack/Showcase.umap",
+				"C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/AnimStarterPack/Ue4ASP_Character.uasset",
+				"C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.uasset"
 			]
 		}
 	]
