@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/StarterContent/Materials/M_AssetPlatform.uasset",
+				"C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
