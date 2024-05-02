@@ -1869,3 +1869,319 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.02-20.46.49:182][824]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 3.02 sec)
 [2024.05.02-20.46.49:186][824]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
 [2024.05.02-20.46.49:186][824]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.05.02-20.47.12:893][367]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.02-20.47.12:897][367]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.02-20.47.12:897][367]PIE: New page: PIE session: Ancient_Golem (May 2, 2024, 12:47:12 PM)
+[2024.05.02-20.47.12:897][367]LogPlayLevel: Creating play world package: /Game/Ancient_Golem/Maps/UEDPIE_0_Ancient_Golem
+[2024.05.02-20.47.12:900][367]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002892s)
+[2024.05.02-20.47.12:900][367]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Ancient_Golem/Maps/Ancient_Golem.Ancient_Golem to /Game/Ancient_Golem/Maps/UEDPIE_0_Ancient_Golem.Ancient_Golem (0.002921s)
+[2024.05.02-20.47.12:900][367]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-20.47.12:901][367]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-20.47.12:901][367]LogAIModule: Creating AISystem for world Ancient_Golem
+[2024.05.02-20.47.12:901][367]LogPlayLevel: PIE: World Init took: (0.000889s)
+[2024.05.02-20.47.12:921][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.05.02-20.47.12:923][367]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.05.02-20.47.12:923][367]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.02-20.47.12:923][367]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.02-20.47.12:923][367]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.02-20.47.12:923][367]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.02-20.47.12:923][367]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.02-20.47.12:923][367]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.02-20.47.12:923][367]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.02-20.47.12:923][367]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.02-20.47.12:923][367]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.02-20.47.12:923][367]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.02-20.47.12:923][367]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.02-20.47.12:925][367]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.02-20.47.12:982][367]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech PRO X Wireless Gaming Headset)
+[2024.05.02-20.47.12:982][367]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.02-20.47.12:982][367]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.02-20.47.12:982][367]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.02-20.47.12:983][367]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.05.02-20.47.12:983][367]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=4
+[2024.05.02-20.47.12:985][367]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.05.02-20.47.12:985][367]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.05.02-20.47.12:985][367]LogInit: FAudioDevice initialized with ID 4.
+[2024.05.02-20.47.12:985][367]LogAudio: Display: Audio Device (ID: 4) registered with world 'Ancient_Golem'.
+[2024.05.02-20.47.12:985][367]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.05.02-20.47.12:990][367]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.02-20.47.12:995][367]LogWorld: Bringing World /Game/Ancient_Golem/Maps/UEDPIE_0_Ancient_Golem.Ancient_Golem up for play (max tick rate 0) at 2024.05.02-16.47.12
+[2024.05.02-20.47.12:996][367]LogWorld: Bringing up level for play took: 0.006118
+[2024.05.02-20.47.12:998][367]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2024.05.02-20.47.13:001][367]PIE: Server logged in
+[2024.05.02-20.47.13:001][367]PIE: Play in editor total start time 0.104 seconds.
+[2024.05.02-20.47.13:051][367]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.47.13:051][367]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.47.13:051][367]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.47.13:052][367]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.47.13:052][367]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.47.13:052][367]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.47.13:052][367]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.47.13:053][367]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.47.13:053][367]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.47.13:053][367]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.47.13:054][367]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.47.13:054][367]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.47.45:012][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-20.47.45:012][644]LogWorld: BeginTearingDown for /Game/Ancient_Golem/Maps/UEDPIE_0_Ancient_Golem
+[2024.05.02-20.47.45:012][644]LogWorld: UWorld::CleanupWorld for Ancient_Golem, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-20.47.45:013][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-20.47.45:015][644]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.02-20.47.45:018][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-20.47.45:032][644]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.02-20.47.45:032][644]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.05.02-20.47.45:032][644]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.05.02-20.47.45:033][644]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.05.02-20.47.45:037][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-20.47.45:040][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.05.02-20.47.45:060][644]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.47.45:060][644]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.47.45:060][644]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.47.45:061][644]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.47.45:061][644]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.47.45:061][644]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.47.45:061][644]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.47.45:062][644]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.47.45:062][644]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.47.45:062][644]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.47.45:063][644]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.47.45:063][644]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.47.45:067][645]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.05.02-20.47.57:921][467]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-20.49.00:183][ 61]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.05.02-20.49.00:274][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.05.02-20.49.01:023][ 98]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-20.49.01:103][ 98]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.05.02-20.49.01:104][ 98]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/BP_ThirdPersonCharacterEB9E9BBD4FB584FCDEA04EAF7B18F0AF.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.05.02-20.49.01:116][ 98]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 3.11 sec)
+[2024.05.02-20.49.01:120][ 98]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.05.02-20.49.01:120][ 98]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.05.02-20.49.02:909][223]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.02-20.49.02:913][223]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.02-20.49.02:913][223]PIE: New page: PIE session: Ancient_Golem (May 2, 2024, 12:49:02 PM)
+[2024.05.02-20.49.02:913][223]LogPlayLevel: Creating play world package: /Game/Ancient_Golem/Maps/UEDPIE_0_Ancient_Golem
+[2024.05.02-20.49.02:916][223]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003245s)
+[2024.05.02-20.49.02:916][223]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Ancient_Golem/Maps/Ancient_Golem.Ancient_Golem to /Game/Ancient_Golem/Maps/UEDPIE_0_Ancient_Golem.Ancient_Golem (0.003272s)
+[2024.05.02-20.49.02:916][223]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-20.49.02:917][223]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-20.49.02:917][223]LogAIModule: Creating AISystem for world Ancient_Golem
+[2024.05.02-20.49.02:917][223]LogPlayLevel: PIE: World Init took: (0.000599s)
+[2024.05.02-20.49.02:936][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.05.02-20.49.02:938][223]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.05.02-20.49.02:938][223]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.02-20.49.02:938][223]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.02-20.49.02:938][223]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.02-20.49.02:938][223]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.02-20.49.02:938][223]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.02-20.49.02:938][223]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.02-20.49.02:938][223]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.02-20.49.02:938][223]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.02-20.49.02:938][223]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.02-20.49.02:938][223]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.02-20.49.02:938][223]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.02-20.49.02:940][223]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.02-20.49.02:990][223]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech PRO X Wireless Gaming Headset)
+[2024.05.02-20.49.02:990][223]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.02-20.49.02:990][223]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.02-20.49.02:990][223]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.02-20.49.02:990][223]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.05.02-20.49.02:990][223]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=5
+[2024.05.02-20.49.02:992][223]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.05.02-20.49.02:992][223]LogInit: FAudioDevice initialized with ID 5.
+[2024.05.02-20.49.02:992][223]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.05.02-20.49.02:992][223]LogAudio: Display: Audio Device (ID: 5) registered with world 'Ancient_Golem'.
+[2024.05.02-20.49.02:992][223]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.05.02-20.49.02:994][223]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.02-20.49.02:998][223]LogWorld: Bringing World /Game/Ancient_Golem/Maps/UEDPIE_0_Ancient_Golem.Ancient_Golem up for play (max tick rate 0) at 2024.05.02-16.49.02
+[2024.05.02-20.49.02:999][223]LogWorld: Bringing up level for play took: 0.005173
+[2024.05.02-20.49.03:001][223]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2024.05.02-20.49.03:003][223]PIE: Server logged in
+[2024.05.02-20.49.03:004][223]PIE: Play in editor total start time 0.09 seconds.
+[2024.05.02-20.49.03:050][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.03:051][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.03:051][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.03:051][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.03:052][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.03:052][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.03:052][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.03:052][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.03:053][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.03:053][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.03:053][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.03:054][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.12:548][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-20.49.12:548][895]LogWorld: BeginTearingDown for /Game/Ancient_Golem/Maps/UEDPIE_0_Ancient_Golem
+[2024.05.02-20.49.12:548][895]LogWorld: UWorld::CleanupWorld for Ancient_Golem, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-20.49.12:549][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-20.49.12:552][895]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.02-20.49.12:555][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-20.49.12:571][895]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.02-20.49.12:571][895]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.05.02-20.49.12:571][895]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.05.02-20.49.12:573][895]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.05.02-20.49.12:576][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-20.49.12:579][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.05.02-20.49.12:598][895]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.12:598][895]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.12:599][895]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.12:599][895]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.12:599][895]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.12:600][895]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.12:600][895]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.12:600][895]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.12:600][895]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.12:601][895]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.12:601][895]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.12:601][895]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.12:664][898]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.05.02-20.49.48:412][ 80]LogEditorTransaction: Undo Attach Component
+[2024.05.02-20.49.48:445][ 80]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0) Component already registered.
+[2024.05.02-20.49.48:449][ 80]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0) Component already registered.
+[2024.05.02-20.49.48:485][ 80]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.48:486][ 80]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.48:486][ 80]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.48:486][ 80]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.48:487][ 80]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.48:487][ 80]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.48:487][ 80]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.48:487][ 80]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.48:488][ 80]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.48:488][ 80]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.48:488][ 80]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.48:489][ 80]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.49:070][100]LogEditorTransaction: Undo Attach Component
+[2024.05.02-20.49.49:112][100]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_6:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0) Component already registered.
+[2024.05.02-20.49.49:116][100]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0) Component already registered.
+[2024.05.02-20.49.49:133][100]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.49:133][100]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.49:134][100]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.49:134][100]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.49:134][100]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.49:135][100]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.49:135][100]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.49:135][100]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.49:135][100]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.49:136][100]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.49:136][100]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.49.49:136][100]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-20.50.58:813][ 36]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-20.52.13:490][513]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-20.53.02:609][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.05.02-20.53.02:611][454]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Ancient_Golem/Maps/Ancient_Golem' took 0.025
+[2024.05.02-20.53.02:612][454]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.05.02-20.53.02:619][454]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.05.02-20.53.02:619][454]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.05.02-20.53.02:628][454]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto1
+[2024.05.02-20.53.02:628][454]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/BP_ThirdPersonCharacter_Auto11FE96A9347F32A5519FEAAB434829AC8.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto1.uasset'
+[2024.05.02-20.53.02:629][454]LogFileHelpers: Auto-saving content packages took 0.018
+[2024.05.02-21.01.02:891][208]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.05.02-21.01.02:999][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.05.02-21.01.03:823][256]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-21.01.03:892][256]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.05.02-21.01.03:893][256]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/BP_ThirdPersonCharacter04F4FAA64AAFF0B1BE0377B6D8405CCC.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.05.02-21.01.03:904][256]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 3.19 sec)
+[2024.05.02-21.01.03:909][256]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.05.02-21.01.03:909][256]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.05.02-21.01.28:509][882]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.05.02-21.01.28:551][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.05.02-21.01.29:175][914]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-21.01.29:252][914]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.05.02-21.01.29:253][914]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/BP_ThirdPersonCharacterF7FC5879436642436877DEA51B259885.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.05.02-21.01.29:264][914]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 3.28 sec)
+[2024.05.02-21.01.29:268][914]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.05.02-21.01.29:268][914]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.05.02-21.01.32:860][164]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.02-21.01.32:864][164]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.02-21.01.32:864][164]PIE: New page: PIE session: Ancient_Golem (May 2, 2024, 1:01:32 PM)
+[2024.05.02-21.01.32:885][164]LogPlayLevel: Creating play world package: /Game/Ancient_Golem/Maps/UEDPIE_0_Ancient_Golem
+[2024.05.02-21.01.32:888][164]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003088s)
+[2024.05.02-21.01.32:888][164]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Ancient_Golem/Maps/Ancient_Golem.Ancient_Golem to /Game/Ancient_Golem/Maps/UEDPIE_0_Ancient_Golem.Ancient_Golem (0.003119s)
+[2024.05.02-21.01.32:888][164]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-21.01.32:889][164]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-21.01.32:889][164]LogAIModule: Creating AISystem for world Ancient_Golem
+[2024.05.02-21.01.32:889][164]LogPlayLevel: PIE: World Init took: (0.000635s)
+[2024.05.02-21.01.32:905][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.05.02-21.01.32:907][164]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.05.02-21.01.32:907][164]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.02-21.01.32:907][164]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.02-21.01.32:907][164]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.02-21.01.32:907][164]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.02-21.01.32:907][164]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.02-21.01.32:907][164]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.02-21.01.32:907][164]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.02-21.01.32:908][164]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.02-21.01.32:908][164]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.02-21.01.32:908][164]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.02-21.01.32:908][164]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.02-21.01.32:909][164]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.02-21.01.32:957][164]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech PRO X Wireless Gaming Headset)
+[2024.05.02-21.01.32:958][164]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.02-21.01.32:958][164]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.02-21.01.32:958][164]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.02-21.01.32:958][164]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.05.02-21.01.32:958][164]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=6
+[2024.05.02-21.01.32:959][164]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.05.02-21.01.32:959][164]LogInit: FAudioDevice initialized with ID 6.
+[2024.05.02-21.01.32:959][164]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.05.02-21.01.32:959][164]LogAudio: Display: Audio Device (ID: 6) registered with world 'Ancient_Golem'.
+[2024.05.02-21.01.32:959][164]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.05.02-21.01.32:962][164]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.02-21.01.32:966][164]LogWorld: Bringing World /Game/Ancient_Golem/Maps/UEDPIE_0_Ancient_Golem.Ancient_Golem up for play (max tick rate 0) at 2024.05.02-17.01.32
+[2024.05.02-21.01.32:967][164]LogWorld: Bringing up level for play took: 0.005317
+[2024.05.02-21.01.32:969][164]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2024.05.02-21.01.32:970][164]PIE: Server logged in
+[2024.05.02-21.01.32:971][164]PIE: Play in editor total start time 0.107 seconds.
+[2024.05.02-21.01.33:020][164]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-21.01.33:021][164]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-21.01.33:021][164]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-21.01.33:021][164]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-21.01.33:022][164]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-21.01.33:022][164]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-21.01.33:022][164]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-21.01.33:022][164]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-21.01.33:023][164]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-21.01.33:023][164]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-21.01.33:023][164]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-21.01.33:023][164]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-21.02.18:725][429]LogCharacterMovement: BP_ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=382.01 Y=322.60 Z=0.00 Location: X=534.80 Y=-1250.95 Z=110.46 Normal: X=-0.28 Y=-0.38 Z=-0.88 PenetrationDepth:4.825 Actor:SK_Ancient_Golem7_54 Component:SkeletalMeshComponent0 BoneName:spine_03 (0 other events since notify)
+[2024.05.02-21.02.41:542][ 58]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-21.02.41:542][ 58]LogWorld: BeginTearingDown for /Game/Ancient_Golem/Maps/UEDPIE_0_Ancient_Golem
+[2024.05.02-21.02.41:542][ 58]LogWorld: UWorld::CleanupWorld for Ancient_Golem, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-21.02.41:543][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-21.02.41:545][ 58]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.02-21.02.41:548][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-21.02.41:562][ 58]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.02-21.02.41:563][ 58]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.05.02-21.02.41:563][ 58]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.05.02-21.02.41:564][ 58]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.05.02-21.02.41:568][ 58]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-21.02.41:570][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.05.02-21.02.41:590][ 58]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-21.02.41:590][ 58]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-21.02.41:591][ 58]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-21.02.41:591][ 58]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-21.02.41:591][ 58]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-21.02.41:591][ 58]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-21.02.41:592][ 58]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-21.02.41:592][ 58]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-21.02.41:592][ 58]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-21.02.41:593][ 58]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-21.02.41:593][ 58]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-21.02.41:593][ 58]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.02-21.02.41:607][ 60]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2024.05.02-21.05.12:450][183]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.05.02-21.05.12:546][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.05.02-21.05.13:186][222]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-21.05.13:267][222]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.05.02-21.05.13:268][222]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/BP_ThirdPersonCharacterB19FDA0C4411E8CBE68593B295BFF417.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.05.02-21.05.13:280][222]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 3.37 sec)
+[2024.05.02-21.05.13:284][222]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.05.02-21.05.13:284][222]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.05.02-21.05.31:077][443]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.05.02-21.05.31:121][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.05.02-21.05.32:854][547]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-21.05.32:932][547]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.05.02-21.05.32:933][547]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/BP_ThirdPersonCharacter221544DE47BA91C7C639C393E3C8D426.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.05.02-21.05.32:944][547]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 3.46 sec)
+[2024.05.02-21.05.32:949][547]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.05.02-21.05.32:949][547]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
