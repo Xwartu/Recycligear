@@ -1830,3 +1830,492 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.03-22.28.38:355][788]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Aim_Space_Hip.fps_Aim_Space_Hip
 [2024.05.03-22.28.42:149][211]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2024.05.03-22.28.43:060][311]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.03-22.30.49:475][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.05.03-22.30.49:480][391]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.026
+[2024.05.03-22.30.49:481][391]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Ancient_Golem/Demo/ThirdPerson_AnimBP] ([2] browsable assets)...
+[2024.05.03-22.30.49:496][391]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Ancient_Golem/Demo/ThirdPerson_AnimBP.ThirdPerson_AnimBP]
+[2024.05.03-22.30.49:496][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ancient_Golem/Demo/ThirdPerson_AnimBP]
+[2024.05.03-22.30.49:513][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Ancient_Golem/Demo/ThirdPerson_AnimBP_Auto1
+[2024.05.03-22.30.49:513][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/ThirdPerson_AnimBP_Auto15656A5F64BF34ED976999F9E5D67875E.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Ancient_Golem/Demo/ThirdPerson_AnimBP_Auto1.uasset'
+[2024.05.03-22.30.49:514][391]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animations/fps_Reload_Shotgun_Hip] ([1] browsable assets)...
+[2024.05.03-22.30.49:514][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Reload_Shotgun_Hip]
+[2024.05.03-22.30.49:526][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Reload_Shotgun_Hip_Auto1
+[2024.05.03-22.30.49:526][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Reload_Shotgun_Hip_Auto19199AE7845AEB914684133ADEA90ECC3.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Reload_Shotgun_Hip_Auto1.uasset'
+[2024.05.03-22.30.49:527][391]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animations/fps_Reload_Rifle_Ironsights] ([1] browsable assets)...
+[2024.05.03-22.30.49:527][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Reload_Rifle_Ironsights]
+[2024.05.03-22.30.49:538][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Reload_Rifle_Ironsights_Auto1
+[2024.05.03-22.30.49:538][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Reload_Rifle_Ironsights_AutoCD2E3EE842219D312B59AA8E51B67670.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Reload_Rifle_Ironsights_Auto1.uasset'
+[2024.05.03-22.30.49:539][391]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animations/fps_Reload_Rifle_Hip] ([1] browsable assets)...
+[2024.05.03-22.30.49:539][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Reload_Rifle_Hip]
+[2024.05.03-22.30.49:550][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Reload_Rifle_Hip_Auto1
+[2024.05.03-22.30.49:550][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Reload_Rifle_Hip_Auto115F329E547533A6254A1E7BEF2894906.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Reload_Rifle_Hip_Auto1.uasset'
+[2024.05.03-22.30.49:551][391]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animations/fps_Reload_Pistol] ([1] browsable assets)...
+[2024.05.03-22.30.49:551][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Reload_Pistol]
+[2024.05.03-22.30.49:562][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Reload_Pistol_Auto1
+[2024.05.03-22.30.49:562][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Reload_Pistol_Auto154A05486459C7D5F9328E8BF31B95CA1.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Reload_Pistol_Auto1.uasset'
+[2024.05.03-22.30.49:562][391]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animations/fps_Prone_To_Stand] ([1] browsable assets)...
+[2024.05.03-22.30.49:562][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Prone_To_Stand]
+[2024.05.03-22.30.49:573][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Prone_To_Stand_Auto1
+[2024.05.03-22.30.49:573][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Prone_To_Stand_Auto1DD7E68D24D3CCADB6C8D73961262E75F.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Prone_To_Stand_Auto1.uasset'
+[2024.05.03-22.30.49:574][391]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animations/fps_Prone_Reload_Shotgun] ([1] browsable assets)...
+[2024.05.03-22.30.49:574][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Prone_Reload_Shotgun]
+[2024.05.03-22.30.49:586][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Prone_Reload_Shotgun_Auto1
+[2024.05.03-22.30.49:586][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Prone_Reload_Shotgun_Auto1D293A46F4D342CA1774E25A62057803E.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Prone_Reload_Shotgun_Auto1.uasset'
+[2024.05.03-22.30.49:587][391]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animations/fps_Prone_Reload_Rifle] ([1] browsable assets)...
+[2024.05.03-22.30.49:587][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Prone_Reload_Rifle]
+[2024.05.03-22.30.49:598][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Prone_Reload_Rifle_Auto1
+[2024.05.03-22.30.49:598][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Prone_Reload_Rifle_Auto17907C29B47BE9BDBFD36E194729414E8.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Prone_Reload_Rifle_Auto1.uasset'
+[2024.05.03-22.30.49:598][391]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animations/fps_Prone_Idle] ([1] browsable assets)...
+[2024.05.03-22.30.49:599][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Prone_Idle]
+[2024.05.03-22.30.49:610][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Prone_Idle_Auto1
+[2024.05.03-22.30.49:610][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Prone_Idle_Auto13B1A1A524170073DE9371DBD2F958927.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Prone_Idle_Auto1.uasset'
+[2024.05.03-22.30.49:611][391]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animations/fps_Prone_Fire_2] ([1] browsable assets)...
+[2024.05.03-22.30.49:611][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Prone_Fire_2]
+[2024.05.03-22.30.49:621][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Prone_Fire_2_Auto1
+[2024.05.03-22.30.49:621][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Prone_Fire_2_Auto1BF0B23B5451298D20399C1BA82E9EF28.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Prone_Fire_2_Auto1.uasset'
+[2024.05.03-22.30.49:622][391]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animations/fps_Prone_Fire_1] ([1] browsable assets)...
+[2024.05.03-22.30.49:622][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Prone_Fire_1]
+[2024.05.03-22.30.49:633][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Prone_Fire_1_Auto1
+[2024.05.03-22.30.49:633][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Prone_Fire_1_Auto13515C52B4F248D5046823699F4F4625F.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Prone_Fire_1_Auto1.uasset'
+[2024.05.03-22.30.49:633][391]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animations/fps_Prone_Death_2] ([1] browsable assets)...
+[2024.05.03-22.30.49:633][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Prone_Death_2]
+[2024.05.03-22.30.49:645][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Prone_Death_2_Auto1
+[2024.05.03-22.30.49:645][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Prone_Death_2_Auto13E4A6B954931A84AACCC6FB9D3D22DE1.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Prone_Death_2_Auto1.uasset'
+[2024.05.03-22.30.49:646][391]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animations/fps_Reload_Shotgun_Ironsights] ([1] browsable assets)...
+[2024.05.03-22.30.49:646][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Reload_Shotgun_Ironsights]
+[2024.05.03-22.30.49:659][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Reload_Shotgun_Ironsights_Auto1
+[2024.05.03-22.30.49:659][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Reload_Shotgun_Ironsights_AuE858F731498FB4A6C9D8BF85EA4C2AD2.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Reload_Shotgun_Ironsights_Auto1.uasset'
+[2024.05.03-22.30.49:659][391]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animations/fps_Sprint_Fwd_Rifle] ([1] browsable assets)...
+[2024.05.03-22.30.49:660][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Sprint_Fwd_Rifle]
+[2024.05.03-22.30.49:671][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Sprint_Fwd_Rifle_Auto1
+[2024.05.03-22.30.49:671][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Sprint_Fwd_Rifle_Auto19D7BDBB840C268B1436AA999C68A1FAF.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Sprint_Fwd_Rifle_Auto1.uasset'
+[2024.05.03-22.30.49:672][391]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animations/fps_Stand_to_Crouch_Rifle_Hip] ([1] browsable assets)...
+[2024.05.03-22.30.49:672][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Stand_to_Crouch_Rifle_Hip]
+[2024.05.03-22.30.49:682][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Stand_to_Crouch_Rifle_Hip_Auto1
+[2024.05.03-22.30.49:682][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Stand_to_Crouch_Rifle_Hip_AuD7F281694F3A9DAF4D1AB0B81B19AA75.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Stand_to_Crouch_Rifle_Hip_Auto1.uasset'
+[2024.05.03-22.30.49:683][391]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animations/fps_Stand_to_Crouch_Rifle_Ironsights] ([1] browsable assets)...
+[2024.05.03-22.30.49:683][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Stand_to_Crouch_Rifle_Ironsights]
+[2024.05.03-22.30.49:694][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Stand_to_Crouch_Rifle_Ironsights_Auto1
+[2024.05.03-22.30.49:694][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Stand_to_Crouch_Rifle_Ironsi6EEEE248426EDFD1B1B8C1B17163E6CD.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Stand_to_Crouch_Rifle_Ironsights_Auto1.uasset'
+[2024.05.03-22.30.49:695][391]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animations/fps_Stand_To_Prone] ([1] browsable assets)...
+[2024.05.03-22.30.49:695][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Stand_To_Prone]
+[2024.05.03-22.30.49:707][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Stand_To_Prone_Auto1
+[2024.05.03-22.30.49:707][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Stand_To_Prone_Auto19C71BEBB4AF90A2F72FF07B9E14D8409.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Stand_To_Prone_Auto1.uasset'
+[2024.05.03-22.30.49:708][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/fps_Prone_Death_1] ([1] browsable assets)...
+[2024.05.03-22.30.49:713][391]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/fps_Prone_Death_1.fps_Prone_Death_1]
+[2024.05.03-22.30.49:713][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Prone_Death_1]
+[2024.05.03-22.30.49:725][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Prone_Death_1_Auto1
+[2024.05.03-22.30.49:725][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Prone_Death_1_Auto18C702D444112A8BC76D19BAD5169A48B.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Prone_Death_1_Auto1.uasset'
+[2024.05.03-22.30.49:726][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/fps_Crouch_Idle_Rifle_Hip] ([1] browsable assets)...
+[2024.05.03-22.30.49:730][391]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/fps_Crouch_Idle_Rifle_Hip.fps_Crouch_Idle_Rifle_Hip]
+[2024.05.03-22.30.49:730][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Crouch_Idle_Rifle_Hip]
+[2024.05.03-22.30.49:743][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Crouch_Idle_Rifle_Hip_Auto1
+[2024.05.03-22.30.49:743][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Crouch_Idle_Rifle_Hip_Auto16EE793194913FE753DD2299BFCCE4816.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Crouch_Idle_Rifle_Hip_Auto1.uasset'
+[2024.05.03-22.30.49:744][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/fps_Crouch_Idle_Rifle_Ironsights] ([1] browsable assets)...
+[2024.05.03-22.30.49:748][391]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/fps_Crouch_Idle_Rifle_Ironsights.fps_Crouch_Idle_Rifle_Ironsights]
+[2024.05.03-22.30.49:748][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Crouch_Idle_Rifle_Ironsights]
+[2024.05.03-22.30.49:760][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Crouch_Idle_Rifle_Ironsights_Auto1
+[2024.05.03-22.30.49:760][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Crouch_Idle_Rifle_IronsightsCD98205846157D5647FC9989CFCFBFCC.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Crouch_Idle_Rifle_Ironsights_Auto1.uasset'
+[2024.05.03-22.30.49:761][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/fps_Crouch_to_Stand_Rifle_Hip] ([1] browsable assets)...
+[2024.05.03-22.30.49:766][391]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/fps_Crouch_to_Stand_Rifle_Hip.fps_Crouch_to_Stand_Rifle_Hip]
+[2024.05.03-22.30.49:766][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Crouch_to_Stand_Rifle_Hip]
+[2024.05.03-22.30.49:777][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Crouch_to_Stand_Rifle_Hip_Auto1
+[2024.05.03-22.30.49:777][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Crouch_to_Stand_Rifle_Hip_Au2866F11349752E4C3ADF41B9653CAB72.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Crouch_to_Stand_Rifle_Hip_Auto1.uasset'
+[2024.05.03-22.30.49:778][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/fps_Crouch_to_Stand_Rifle_Ironsights] ([1] browsable assets)...
+[2024.05.03-22.30.49:782][391]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/fps_Crouch_to_Stand_Rifle_Ironsights.fps_Crouch_to_Stand_Rifle_Ironsights]
+[2024.05.03-22.30.49:782][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Crouch_to_Stand_Rifle_Ironsights]
+[2024.05.03-22.30.49:793][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Crouch_to_Stand_Rifle_Ironsights_Auto1
+[2024.05.03-22.30.49:793][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Crouch_to_Stand_Rifle_IronsiEDDE33B646BA11FCCE818C91E83BC3E4.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Crouch_to_Stand_Rifle_Ironsights_Auto1.uasset'
+[2024.05.03-22.30.49:794][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/fps_Crouch_Walk_Bwd_Rifle_Hip] ([1] browsable assets)...
+[2024.05.03-22.30.49:798][391]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/fps_Crouch_Walk_Bwd_Rifle_Hip.fps_Crouch_Walk_Bwd_Rifle_Hip]
+[2024.05.03-22.30.49:798][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Crouch_Walk_Bwd_Rifle_Hip]
+[2024.05.03-22.30.49:810][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Crouch_Walk_Bwd_Rifle_Hip_Auto1
+[2024.05.03-22.30.49:810][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Crouch_Walk_Bwd_Rifle_Hip_AuA736DE364E413F45AB5BFF906BBC9B43.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Crouch_Walk_Bwd_Rifle_Hip_Auto1.uasset'
+[2024.05.03-22.30.49:810][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/fps_Crouch_Walk_Bwd_Rifle_Ironsights] ([1] browsable assets)...
+[2024.05.03-22.30.49:815][391]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/fps_Crouch_Walk_Bwd_Rifle_Ironsights.fps_Crouch_Walk_Bwd_Rifle_Ironsights]
+[2024.05.03-22.30.49:815][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Crouch_Walk_Bwd_Rifle_Ironsights]
+[2024.05.03-22.30.49:826][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Crouch_Walk_Bwd_Rifle_Ironsights_Auto1
+[2024.05.03-22.30.49:826][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Crouch_Walk_Bwd_Rifle_Ironsi43E2D8F34811533D241D7B82D990A70F.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Crouch_Walk_Bwd_Rifle_Ironsights_Auto1.uasset'
+[2024.05.03-22.30.49:827][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/fps_Crouch_Walk_Fwd_Rifle_Hip] ([1] browsable assets)...
+[2024.05.03-22.30.49:831][391]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/fps_Crouch_Walk_Fwd_Rifle_Hip.fps_Crouch_Walk_Fwd_Rifle_Hip]
+[2024.05.03-22.30.49:831][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Crouch_Walk_Fwd_Rifle_Hip]
+[2024.05.03-22.30.49:843][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Crouch_Walk_Fwd_Rifle_Hip_Auto1
+[2024.05.03-22.30.49:843][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Crouch_Walk_Fwd_Rifle_Hip_AuAD71FDF04F0F525639C8438C36CA1FBB.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Crouch_Walk_Fwd_Rifle_Hip_Auto1.uasset'
+[2024.05.03-22.30.49:844][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/fps_Crouch_Walk_Fwd_Rifle_Ironsights] ([1] browsable assets)...
+[2024.05.03-22.30.49:848][391]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/fps_Crouch_Walk_Fwd_Rifle_Ironsights.fps_Crouch_Walk_Fwd_Rifle_Ironsights]
+[2024.05.03-22.30.49:848][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Crouch_Walk_Fwd_Rifle_Ironsights]
+[2024.05.03-22.30.49:860][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Crouch_Walk_Fwd_Rifle_Ironsights_Auto1
+[2024.05.03-22.30.49:860][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Crouch_Walk_Fwd_Rifle_Ironsi4028C7CD4FD3DAF3DB3D22B1527BFBBC.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Crouch_Walk_Fwd_Rifle_Ironsights_Auto1.uasset'
+[2024.05.03-22.30.49:861][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/fps_Crouch_Walk_Lt_Rifle_Hip] ([1] browsable assets)...
+[2024.05.03-22.30.49:865][391]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/fps_Crouch_Walk_Lt_Rifle_Hip.fps_Crouch_Walk_Lt_Rifle_Hip]
+[2024.05.03-22.30.49:865][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Crouch_Walk_Lt_Rifle_Hip]
+[2024.05.03-22.30.49:877][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Crouch_Walk_Lt_Rifle_Hip_Auto1
+[2024.05.03-22.30.49:877][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Crouch_Walk_Lt_Rifle_Hip_Aut92D349044B298EBDF0827CA627A39392.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Crouch_Walk_Lt_Rifle_Hip_Auto1.uasset'
+[2024.05.03-22.30.49:878][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/fps_Crouch_Walk_Lt_Rifle_Ironsights] ([1] browsable assets)...
+[2024.05.03-22.30.49:883][391]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/fps_Crouch_Walk_Lt_Rifle_Ironsights.fps_Crouch_Walk_Lt_Rifle_Ironsights]
+[2024.05.03-22.30.49:883][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Crouch_Walk_Lt_Rifle_Ironsights]
+[2024.05.03-22.30.49:895][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Crouch_Walk_Lt_Rifle_Ironsights_Auto1
+[2024.05.03-22.30.49:895][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Crouch_Walk_Lt_Rifle_Ironsig24214C50425D4D2D647AA383004342A1.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Crouch_Walk_Lt_Rifle_Ironsights_Auto1.uasset'
+[2024.05.03-22.30.49:895][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/fps_Crouch_Walk_Rt_Rifle_Hip] ([1] browsable assets)...
+[2024.05.03-22.30.49:900][391]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/fps_Crouch_Walk_Rt_Rifle_Hip.fps_Crouch_Walk_Rt_Rifle_Hip]
+[2024.05.03-22.30.49:900][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Crouch_Walk_Rt_Rifle_Hip]
+[2024.05.03-22.30.49:912][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Crouch_Walk_Rt_Rifle_Hip_Auto1
+[2024.05.03-22.30.49:912][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Crouch_Walk_Rt_Rifle_Hip_Aut65618B1B43A1F89E4452E8BBA51D866E.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Crouch_Walk_Rt_Rifle_Hip_Auto1.uasset'
+[2024.05.03-22.30.49:913][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/fps_Crouch_Walk_Rt_Rifle_Ironsights] ([1] browsable assets)...
+[2024.05.03-22.30.49:917][391]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/fps_Crouch_Walk_Rt_Rifle_Ironsights.fps_Crouch_Walk_Rt_Rifle_Ironsights]
+[2024.05.03-22.30.49:917][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Crouch_Walk_Rt_Rifle_Ironsights]
+[2024.05.03-22.30.49:928][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Crouch_Walk_Rt_Rifle_Ironsights_Auto1
+[2024.05.03-22.30.49:928][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Crouch_Walk_Rt_Rifle_IronsigF552F9064BDEA5903BBB2097B6EB213B.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Crouch_Walk_Rt_Rifle_Ironsights_Auto1.uasset'
+[2024.05.03-22.30.49:929][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/fps_Death_1] ([1] browsable assets)...
+[2024.05.03-22.30.49:933][391]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/fps_Death_1.fps_Death_1]
+[2024.05.03-22.30.49:933][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Death_1]
+[2024.05.03-22.30.49:945][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Death_1_Auto1
+[2024.05.03-22.30.49:945][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Death_1_Auto1630C45B44B18A4DEC75C9FB02F341E0A.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Death_1_Auto1.uasset'
+[2024.05.03-22.30.49:946][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/fps_Death_2] ([1] browsable assets)...
+[2024.05.03-22.30.49:950][391]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/fps_Death_2.fps_Death_2]
+[2024.05.03-22.30.49:950][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Death_2]
+[2024.05.03-22.30.49:962][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Death_2_Auto1
+[2024.05.03-22.30.49:962][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Death_2_Auto113559F834291832AF2488F824EB3EEA0.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Death_2_Auto1.uasset'
+[2024.05.03-22.30.49:962][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/fps_Death_3] ([1] browsable assets)...
+[2024.05.03-22.30.49:967][391]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/fps_Death_3.fps_Death_3]
+[2024.05.03-22.30.49:967][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Death_3]
+[2024.05.03-22.30.49:978][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Death_3_Auto1
+[2024.05.03-22.30.49:979][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Death_3_Auto11BE1ACEE46EC8B5108A3549AA6190B95.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Death_3_Auto1.uasset'
+[2024.05.03-22.30.49:979][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/fps_Death_Ironsights_1] ([1] browsable assets)...
+[2024.05.03-22.30.49:983][391]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/fps_Death_Ironsights_1.fps_Death_Ironsights_1]
+[2024.05.03-22.30.49:983][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Death_Ironsights_1]
+[2024.05.03-22.30.49:995][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Death_Ironsights_1_Auto1
+[2024.05.03-22.30.49:995][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Death_Ironsights_1_Auto1F15EDADD4B7D6D2CF1F9B9BA7179FA2B.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Death_Ironsights_1_Auto1.uasset'
+[2024.05.03-22.30.49:996][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/fps_Death_Ironsights_2] ([1] browsable assets)...
+[2024.05.03-22.30.50:000][391]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/fps_Death_Ironsights_2.fps_Death_Ironsights_2]
+[2024.05.03-22.30.50:000][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Death_Ironsights_2]
+[2024.05.03-22.30.50:012][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Death_Ironsights_2_Auto1
+[2024.05.03-22.30.50:012][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Death_Ironsights_2_Auto1BD908F9D457EE823DCA241B08C88AE88.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Death_Ironsights_2_Auto1.uasset'
+[2024.05.03-22.30.50:013][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/fps_Equip_Pistol_Standing] ([1] browsable assets)...
+[2024.05.03-22.30.50:017][391]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/fps_Equip_Pistol_Standing.fps_Equip_Pistol_Standing]
+[2024.05.03-22.30.50:017][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Equip_Pistol_Standing]
+[2024.05.03-22.30.50:028][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Equip_Pistol_Standing_Auto1
+[2024.05.03-22.30.50:028][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Equip_Pistol_Standing_Auto19F3A2E4F488180C0ADE27296E6C7A484.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Equip_Pistol_Standing_Auto1.uasset'
+[2024.05.03-22.30.50:029][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/fps_Equip_Rifle_Standing] ([1] browsable assets)...
+[2024.05.03-22.30.50:033][391]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/fps_Equip_Rifle_Standing.fps_Equip_Rifle_Standing]
+[2024.05.03-22.30.50:033][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Equip_Rifle_Standing]
+[2024.05.03-22.30.50:045][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Equip_Rifle_Standing_Auto1
+[2024.05.03-22.30.50:045][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Equip_Rifle_Standing_Auto11BAEE6EF46089CDA6124339935836336.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Equip_Rifle_Standing_Auto1.uasset'
+[2024.05.03-22.30.50:046][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/fps_Fire_Rifle_Hip] ([1] browsable assets)...
+[2024.05.03-22.30.50:050][391]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/fps_Fire_Rifle_Hip.fps_Fire_Rifle_Hip]
+[2024.05.03-22.30.50:050][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Fire_Rifle_Hip]
+[2024.05.03-22.30.50:062][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Fire_Rifle_Hip_Auto1
+[2024.05.03-22.30.50:062][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Fire_Rifle_Hip_Auto1FB9BBDA64DEDDBFA402BBE9959375623.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Fire_Rifle_Hip_Auto1.uasset'
+[2024.05.03-22.30.50:063][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/fps_Fire_Rifle_Ironsights] ([1] browsable assets)...
+[2024.05.03-22.30.50:067][391]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/fps_Fire_Rifle_Ironsights.fps_Fire_Rifle_Ironsights]
+[2024.05.03-22.30.50:067][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Fire_Rifle_Ironsights]
+[2024.05.03-22.30.50:078][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Fire_Rifle_Ironsights_Auto1
+[2024.05.03-22.30.50:078][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Fire_Rifle_Ironsights_Auto1FEE15BA34D0FE47B33093BB6E61AB99C.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Fire_Rifle_Ironsights_Auto1.uasset'
+[2024.05.03-22.30.50:079][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/fps_Fire_Shotgun_Hip] ([1] browsable assets)...
+[2024.05.03-22.30.50:083][391]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/fps_Fire_Shotgun_Hip.fps_Fire_Shotgun_Hip]
+[2024.05.03-22.30.50:083][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Fire_Shotgun_Hip]
+[2024.05.03-22.30.50:094][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Fire_Shotgun_Hip_Auto1
+[2024.05.03-22.30.50:094][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Fire_Shotgun_Hip_Auto12015C8E949B7F9980EF273AF67D953CB.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Fire_Shotgun_Hip_Auto1.uasset'
+[2024.05.03-22.30.50:095][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/fps_Fire_Shotgun_Ironsights] ([1] browsable assets)...
+[2024.05.03-22.30.50:099][391]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/fps_Fire_Shotgun_Ironsights.fps_Fire_Shotgun_Ironsights]
+[2024.05.03-22.30.50:099][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Fire_Shotgun_Ironsights]
+[2024.05.03-22.30.50:110][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Fire_Shotgun_Ironsights_Auto1
+[2024.05.03-22.30.50:110][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Fire_Shotgun_Ironsights_Auto519B9EB145610EB1F54881A44CC80F13.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Fire_Shotgun_Ironsights_Auto1.uasset'
+[2024.05.03-22.30.50:111][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/fps_Hit_React_1] ([1] browsable assets)...
+[2024.05.03-22.30.50:115][391]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/fps_Hit_React_1.fps_Hit_React_1]
+[2024.05.03-22.30.50:115][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Hit_React_1]
+[2024.05.03-22.30.50:126][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Hit_React_1_Auto1
+[2024.05.03-22.30.50:126][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Hit_React_1_Auto1328106EB47B052D6C698C5B798E224E8.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Hit_React_1_Auto1.uasset'
+[2024.05.03-22.30.50:127][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/fps_Hit_React_2] ([1] browsable assets)...
+[2024.05.03-22.30.50:131][391]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/fps_Hit_React_2.fps_Hit_React_2]
+[2024.05.03-22.30.50:131][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Hit_React_2]
+[2024.05.03-22.30.50:142][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Hit_React_2_Auto1
+[2024.05.03-22.30.50:143][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Hit_React_2_Auto140D7832149EAADC661CB699A3765DB60.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Hit_React_2_Auto1.uasset'
+[2024.05.03-22.30.50:143][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/fps_Hit_React_3] ([1] browsable assets)...
+[2024.05.03-22.30.50:148][391]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/fps_Hit_React_3.fps_Hit_React_3]
+[2024.05.03-22.30.50:148][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Hit_React_3]
+[2024.05.03-22.30.50:159][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Hit_React_3_Auto1
+[2024.05.03-22.30.50:159][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Hit_React_3_Auto13A874E2849F82A6E2FCD3A9A96534C95.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Hit_React_3_Auto1.uasset'
+[2024.05.03-22.30.50:160][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/fps_Hit_React_4] ([1] browsable assets)...
+[2024.05.03-22.30.50:163][391]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/fps_Hit_React_4.fps_Hit_React_4]
+[2024.05.03-22.30.50:163][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Hit_React_4]
+[2024.05.03-22.30.50:174][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Hit_React_4_Auto1
+[2024.05.03-22.30.50:175][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Hit_React_4_Auto143E5B8164B004839551EE7A438B04A46.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Hit_React_4_Auto1.uasset'
+[2024.05.03-22.30.50:175][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/fps_Idle_Pistol] ([1] browsable assets)...
+[2024.05.03-22.30.50:179][391]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/fps_Idle_Pistol.fps_Idle_Pistol]
+[2024.05.03-22.30.50:179][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Idle_Pistol]
+[2024.05.03-22.30.50:191][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Idle_Pistol_Auto1
+[2024.05.03-22.30.50:191][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Idle_Pistol_Auto135BA260D46664A881834B4B75C686EBD.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Idle_Pistol_Auto1.uasset'
+[2024.05.03-22.30.50:192][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/fps_Idle_Rifle_Hip] ([1] browsable assets)...
+[2024.05.03-22.30.50:196][391]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/fps_Idle_Rifle_Hip.fps_Idle_Rifle_Hip]
+[2024.05.03-22.30.50:196][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Idle_Rifle_Hip]
+[2024.05.03-22.30.50:208][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Idle_Rifle_Hip_Auto1
+[2024.05.03-22.30.50:208][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Idle_Rifle_Hip_Auto1704C80974FD84AD4F64650B4F8A4C45B.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Idle_Rifle_Hip_Auto1.uasset'
+[2024.05.03-22.30.50:209][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/fps_Idle_Rifle_Hip_Break1] ([1] browsable assets)...
+[2024.05.03-22.30.50:213][391]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/fps_Idle_Rifle_Hip_Break1.fps_Idle_Rifle_Hip_Break1]
+[2024.05.03-22.30.50:213][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Idle_Rifle_Hip_Break1]
+[2024.05.03-22.30.50:225][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Idle_Rifle_Hip_Break1_Auto1
+[2024.05.03-22.30.50:225][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Idle_Rifle_Hip_Break1_Auto1A5A9623C46925A5C472CEAB5C518C08F.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Idle_Rifle_Hip_Break1_Auto1.uasset'
+[2024.05.03-22.30.50:226][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/fps_Idle_Rifle_Hip_Break2] ([1] browsable assets)...
+[2024.05.03-22.30.50:230][391]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/fps_Idle_Rifle_Hip_Break2.fps_Idle_Rifle_Hip_Break2]
+[2024.05.03-22.30.50:230][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Idle_Rifle_Hip_Break2]
+[2024.05.03-22.30.50:242][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Idle_Rifle_Hip_Break2_Auto1
+[2024.05.03-22.30.50:242][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Idle_Rifle_Hip_Break2_Auto1516938854FADBB2AB1115296545C6CA0.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Idle_Rifle_Hip_Break2_Auto1.uasset'
+[2024.05.03-22.30.50:243][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/fps_Idle_Rifle_Ironsights] ([1] browsable assets)...
+[2024.05.03-22.30.50:248][391]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/fps_Idle_Rifle_Ironsights.fps_Idle_Rifle_Ironsights]
+[2024.05.03-22.30.50:248][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Idle_Rifle_Ironsights]
+[2024.05.03-22.30.50:260][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Idle_Rifle_Ironsights_Auto1
+[2024.05.03-22.30.50:260][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Idle_Rifle_Ironsights_Auto18815602149B14BB23C21D5BCAC798B22.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Idle_Rifle_Ironsights_Auto1.uasset'
+[2024.05.03-22.30.50:261][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/fps_Jog_Bwd_Rifle] ([1] browsable assets)...
+[2024.05.03-22.30.50:266][391]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/fps_Jog_Bwd_Rifle.fps_Jog_Bwd_Rifle]
+[2024.05.03-22.30.50:266][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Jog_Bwd_Rifle]
+[2024.05.03-22.30.50:277][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Jog_Bwd_Rifle_Auto1
+[2024.05.03-22.30.50:278][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Jog_Bwd_Rifle_Auto1CA657DF24648B90B143A3B9E252CE68E.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Jog_Bwd_Rifle_Auto1.uasset'
+[2024.05.03-22.30.50:278][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/fps_Jog_Fwd_Rifle] ([1] browsable assets)...
+[2024.05.03-22.30.50:282][391]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/fps_Jog_Fwd_Rifle.fps_Jog_Fwd_Rifle]
+[2024.05.03-22.30.50:282][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Jog_Fwd_Rifle]
+[2024.05.03-22.30.50:293][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Jog_Fwd_Rifle_Auto1
+[2024.05.03-22.30.50:293][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Jog_Fwd_Rifle_Auto105B7C9DD4286CC4F7E6A15A8947670C7.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Jog_Fwd_Rifle_Auto1.uasset'
+[2024.05.03-22.30.50:294][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/fps_Jog_Lt_Rifle] ([1] browsable assets)...
+[2024.05.03-22.30.50:298][391]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/fps_Jog_Lt_Rifle.fps_Jog_Lt_Rifle]
+[2024.05.03-22.30.50:298][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Jog_Lt_Rifle]
+[2024.05.03-22.30.50:310][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Jog_Lt_Rifle_Auto1
+[2024.05.03-22.30.50:310][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Jog_Lt_Rifle_Auto1014E8E5D4D0FFFE6EC87DB9A98881114.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Jog_Lt_Rifle_Auto1.uasset'
+[2024.05.03-22.30.50:310][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/fps_Jog_Rt_Rifle] ([1] browsable assets)...
+[2024.05.03-22.30.50:315][391]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/fps_Jog_Rt_Rifle.fps_Jog_Rt_Rifle]
+[2024.05.03-22.30.50:315][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Jog_Rt_Rifle]
+[2024.05.03-22.30.50:326][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Jog_Rt_Rifle_Auto1
+[2024.05.03-22.30.50:326][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Jog_Rt_Rifle_Auto15FE48B954E568E86C28F91BB2137964F.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Jog_Rt_Rifle_Auto1.uasset'
+[2024.05.03-22.30.50:327][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/fps_Jump_From_Jog] ([1] browsable assets)...
+[2024.05.03-22.30.50:331][391]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/fps_Jump_From_Jog.fps_Jump_From_Jog]
+[2024.05.03-22.30.50:331][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Jump_From_Jog]
+[2024.05.03-22.30.50:342][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Jump_From_Jog_Auto1
+[2024.05.03-22.30.50:342][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Jump_From_Jog_Auto10F53D01A49CA18A59E7ACABD76E4A2F5.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Jump_From_Jog_Auto1.uasset'
+[2024.05.03-22.30.50:343][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/fps_Jump_From_Stand] ([1] browsable assets)...
+[2024.05.03-22.30.50:347][391]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/fps_Jump_From_Stand.fps_Jump_From_Stand]
+[2024.05.03-22.30.50:347][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Jump_From_Stand]
+[2024.05.03-22.30.50:358][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Jump_From_Stand_Auto1
+[2024.05.03-22.30.50:358][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Jump_From_Stand_Auto168F63E99405178A53E957CBA6EAFD604.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Jump_From_Stand_Auto1.uasset'
+[2024.05.03-22.30.50:359][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/fps_Jump_From_Stand_Ironsights] ([1] browsable assets)...
+[2024.05.03-22.30.50:364][391]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/fps_Jump_From_Stand_Ironsights.fps_Jump_From_Stand_Ironsights]
+[2024.05.03-22.30.50:364][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Jump_From_Stand_Ironsights]
+[2024.05.03-22.30.50:375][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Jump_From_Stand_Ironsights_Auto1
+[2024.05.03-22.30.50:375][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Jump_From_Stand_Ironsights_A937ECD9B43CA8F26D7DD58A8C383328B.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Jump_From_Stand_Ironsights_Auto1.uasset'
+[2024.05.03-22.30.50:376][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/fps_Aim_Space_Ironsights] ([1] browsable assets)...
+[2024.05.03-22.30.50:380][391]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/fps_Aim_Space_Ironsights.fps_Aim_Space_Ironsights]
+[2024.05.03-22.30.50:380][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/fps_Aim_Space_Ironsights]
+[2024.05.03-22.30.50:391][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/fps_Aim_Space_Ironsights_Auto1
+[2024.05.03-22.30.50:391][391]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Aim_Space_Ironsights_Auto1213A560D43B8C77FAAA32F82D8E4EE44.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Animations/fps_Aim_Space_Ironsights_Auto1.uasset'
+[2024.05.03-22.30.50:392][391]LogFileHelpers: Auto-saving content packages took 0.912
+[2024.05.03-22.50.46:525][746]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Ancient_Golem/Demo/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2024.05.03-22.50.46:526][746]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.03-22.50.46:526][746]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.03-22.50.46:550][746]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.03-22.50.46:550][746]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.03-22.50.46:558][746]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.03-22.50.46:708][746]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.03-22.50.46:708][746]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.03-22.50.46:777][746]LogViewport: Scene viewport resized to 618x525, mode Windowed.
+[2024.05.03-22.51.02:672][831]LogViewport: Scene viewport resized to 953x887, mode Windowed.
+[2024.05.03-22.51.42:362][720]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2024.05.03-22.53.17:695][990]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Deleting All Animation Curve entirely.
+[2024.05.03-22.54.05:875][ 98]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2024.05.03-22.54.05:921][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.05.03-22.54.06:790][143]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.03-22.54.06:883][143]LogSavePackage: Moving output files for package: /Game/Ancient_Golem/Demo/ThirdPerson_AnimBP
+[2024.05.03-22.54.06:884][143]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/ThirdPerson_AnimBP0A890D3A4D70E12B20C278BEAF99C296.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Ancient_Golem/Demo/ThirdPerson_AnimBP.uasset'
+[2024.05.03-22.54.06:898][143]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 439 ms)
+[2024.05.03-22.54.06:903][143]AssetCheck: New page: Asset Save: ThirdPerson_AnimBP
+[2024.05.03-22.54.06:903][143]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Ancient_Golem/Demo/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2024.05.03-22.56.32:518][ 56]LogMetaData: Removing '/Game/Ancient_Golem/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C' ref from Metadata '/Game/Ancient_Golem/Demo/ThirdPerson_AnimBP.PackageMetaData'
+[2024.05.03-22.56.32:518][ 56]LogMetaData: Removing '/Game/Ancient_Golem/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C' ref from Metadata '/Game/Ancient_Golem/Demo/ThirdPerson_AnimBP.PackageMetaData'
+[2024.05.03-22.56.32:518][ 56]LogMetaData: Removing '/Game/Ancient_Golem/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateNode_0.Idle.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Ancient_Golem/Demo/ThirdPerson_AnimBP.PackageMetaData'
+[2024.05.03-22.56.32:518][ 56]LogMetaData: Removing '/Game/Ancient_Golem/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Ancient_Golem/Demo/ThirdPerson_AnimBP.PackageMetaData'
+[2024.05.03-22.56.32:518][ 56]LogMetaData: Removing '/Game/Ancient_Golem/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:AnimGraph' ref from Metadata '/Game/Ancient_Golem/Demo/ThirdPerson_AnimBP.PackageMetaData'
+[2024.05.03-22.56.32:518][ 56]LogMetaData: Removing '/Game/Ancient_Golem/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Ancient_Golem/Demo/ThirdPerson_AnimBP.PackageMetaData'
+[2024.05.03-22.56.32:518][ 56]LogMetaData: Removing '/Game/Ancient_Golem/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:AnimGraph' ref from Metadata '/Game/Ancient_Golem/Demo/ThirdPerson_AnimBP.PackageMetaData'
+[2024.05.03-22.56.32:566][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.03-22.56.32:604][ 56]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.03-22.56.32:632][ 56]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.03-22.56.32:657][ 56]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.05.03-22.56.32:657][ 56]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/BP_ThirdPersonCharacter3091CE8E4EAB2484832BCCA7E1D3AE35.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.05.03-22.56.32:663][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ancient_Golem/ThirdPerson_AnimBP" FILE="C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Ancient_Golem/ThirdPerson_AnimBP.uasset" SILENT=true
+[2024.05.03-22.56.32:683][ 56]LogSavePackage: Moving output files for package: /Game/Ancient_Golem/ThirdPerson_AnimBP
+[2024.05.03-22.56.32:683][ 56]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/ThirdPerson_AnimBP4CC49DBD4070DBB4223B28A7DA2B16CA.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Ancient_Golem/ThirdPerson_AnimBP.uasset'
+[2024.05.03-22.56.32:707][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 578 ms)
+[2024.05.03-22.56.32:746][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.05.03-22.56.32:763][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.05.03-22.56.32:779][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.05.03-22.56.32:793][ 56]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.03-22.56.32:793][ 56]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Ancient_Golem/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2024.05.03-22.56.32:793][ 56]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.05.03-22.56.37:486][332]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2024.05.03-22.56.37:524][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.05.03-22.56.38:265][371]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.03-22.56.38:336][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ancient_Golem/ThirdPerson_AnimBP" FILE="C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Ancient_Golem/ThirdPerson_AnimBP.uasset" SILENT=true
+[2024.05.03-22.56.38:360][371]LogSavePackage: Moving output files for package: /Game/Ancient_Golem/ThirdPerson_AnimBP
+[2024.05.03-22.56.38:360][371]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/ThirdPerson_AnimBPE3E9F9D54F00100CCDEB96A52470F365.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Ancient_Golem/ThirdPerson_AnimBP.uasset'
+[2024.05.03-22.56.38:373][371]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 686 ms)
+[2024.05.03-22.56.38:378][371]AssetCheck: New page: Asset Save: ThirdPerson_AnimBP
+[2024.05.03-22.56.38:378][371]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Ancient_Golem/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2024.05.03-22.57.46:396][268]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Animations/fps_Reload_Rifle_Ironsights.fps_Reload_Rifle_Ironsights
+[2024.05.03-22.57.46:396][268]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.03-22.57.46:396][268]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.03-22.57.46:409][268]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.03-22.57.46:524][268]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.03-22.57.46:524][268]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.03-22.57.46:605][268]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.03-22.57.46:605][268]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.03-22.57.46:616][268]LogViewport: Scene viewport resized to 2287x1131, mode Windowed.
+[2024.05.03-22.57.46:658][268]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.05.03-22.57.55:636][864]LogContentBrowser: Deferred new asset file creation: fps_Reload_Rifle_Ironsights1
+[2024.05.03-22.57.55:643][864]LogContentBrowser: Creating deferred item: fps_Reload_Rifle_Ironsights1
+[2024.05.03-22.57.55:655][865]LogContentBrowser: Renaming the item being created (Deferred Item: fps_Reload_Rifle_Ironsights1).
+[2024.05.03-22.57.57:528][ 88]LogContentBrowser: Attempting asset rename: fps_Reload_Rifle_Ironsights1 -> fps_Reload_Rifle_Ironsights1
+[2024.05.03-22.57.57:535][ 88]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Animations/fps_Reload_Rifle_Ironsights1.fps_Reload_Rifle_Ironsights1
+[2024.05.03-22.57.57:552][ 88]LogContentBrowser: End creating deferred item fps_Reload_Rifle_Ironsights1
+[2024.05.03-22.58.09:072][365]LogContentBrowser: Attempting asset rename: fps_Reload_Rifle_Ironsights1 -> fps_Rifle_Ironsights_Idle
+[2024.05.03-22.58.09:134][365]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.03-22.58.09:193][365]LogSavePackage: Moving output files for package: /Game/Animations/fps_Rifle_Ironsights_Idle
+[2024.05.03-22.58.09:193][365]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Rifle_Ironsights_IdleC1942FEF45BB71D28A8CBE943E7F160E.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Rifle_Ironsights_Idle.uasset'
+[2024.05.03-22.58.09:221][365]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 773 ms)
+[2024.05.03-22.58.09:246][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.05.03-22.58.09:264][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.05.03-22.58.09:278][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.05.03-22.58.09:282][365]AssetCheck: New page: Asset Save: fps_Rifle_Ironsights_Idle
+[2024.05.03-22.58.09:282][365]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Rifle_Ironsights_Idle.fps_Rifle_Ironsights_Idle
+[2024.05.03-22.58.12:370][631]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Animations/fps_Rifle_Ironsights_Idle.fps_Rifle_Ironsights_Idle
+[2024.05.03-22.58.12:392][631]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.03-22.58.12:392][631]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.03-22.58.12:425][631]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2024.05.03-22.58.12:425][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.03-22.59.16:053][795]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/fps_Rifle_Ironsights_Idle.fps_Rifle_Ironsights_Idle
+[2024.05.03-22.59.16:054][795]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/fps_Rifle_Ironsights_Idle.fps_Rifle_Ironsights_Idle, at AnimationSequence/15857b61ffa972697f5769da6ebdfdb948e611ca
+[2024.05.03-22.59.26:845][512]LogScript: Warning: Script Msg: /Game/Animations/fps_Rifle_Ironsights_Idle : New play length is same as existing one: 1 frames
+[2024.05.03-22.59.26:846][512]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/fps_Rifle_Ironsights_Idle.fps_Rifle_Ironsights_Idle
+[2024.05.03-22.59.26:848][512]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/fps_Rifle_Ironsights_Idle.fps_Rifle_Ironsights_Idle, at AnimationSequence/9959fb42a067a7ac6a41e4c1a0d269f2e02453f7
+[2024.05.03-22.59.33:991][979]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.03-22.59.34:060][979]LogSavePackage: Moving output files for package: /Game/Animations/fps_Rifle_Ironsights_Idle
+[2024.05.03-22.59.34:060][979]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Rifle_Ironsights_Idle26A884154A56BCC4FFB0A5B80C4F1073.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Rifle_Ironsights_Idle.uasset'
+[2024.05.03-22.59.34:072][979]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 854 ms)
+[2024.05.03-22.59.34:076][979]AssetCheck: New page: Asset Save: fps_Rifle_Ironsights_Idle
+[2024.05.03-22.59.34:076][979]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Rifle_Ironsights_Idle.fps_Rifle_Ironsights_Idle
+[2024.05.03-22.59.50:249][507]LogSlate: Window 'fps_Rifle_Ironsights_Idle' being destroyed
+[2024.05.03-22.59.50:255][507]LogSlate: Window 'fps_Rifle_Ironsights_Idle' being destroyed
+[2024.05.03-22.59.50:289][507]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2024.05.03-22.59.50:289][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.03-22.59.50:298][507]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2024.05.03-22.59.50:298][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.03-22.59.50:323][507]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2024.05.03-22.59.50:323][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.03-22.59.50:335][507]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2024.05.03-22.59.50:335][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.03-22.59.50:342][507]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2024.05.03-22.59.50:342][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.03-22.59.50:364][507]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2024.05.03-22.59.50:364][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.03-22.59.53:920][864]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Ancient_Golem/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2024.05.03-22.59.53:920][864]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.03-22.59.53:920][864]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.03-22.59.53:942][864]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.03-22.59.53:942][864]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.03-22.59.53:947][864]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.03-22.59.54:100][864]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.03-22.59.54:100][864]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.03-22.59.54:174][864]LogViewport: Scene viewport resized to 953x887, mode Windowed.
+[2024.05.03-23.00.25:669][421]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2024.05.03-23.00.25:712][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.05.03-23.01.35:694][211]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2024.05.03-23.01.35:700][211]LogBlueprint: Warning: [AssetLog] C:\Users\SgCab\Documents\GitHub\Recycligear\RecycligearProject\Content\Ancient_Golem\ThirdPerson_AnimBP.uasset: [Compiler] Idle to Walk/Run  will never be taken, please connect something to  Can Enter Transition
+[2024.05.03-23.01.35:700][211]LogBlueprint: Warning: [AssetLog] C:\Users\SgCab\Documents\GitHub\Recycligear\RecycligearProject\Content\Ancient_Golem\ThirdPerson_AnimBP.uasset: [Compiler] Walk/Run to JumpStart  will never be taken, please connect something to  Can Enter Transition
+[2024.05.03-23.01.35:736][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.05.03-23.01.38:401][386]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2024.05.03-23.01.38:407][386]LogBlueprint: Warning: [AssetLog] C:\Users\SgCab\Documents\GitHub\Recycligear\RecycligearProject\Content\Ancient_Golem\ThirdPerson_AnimBP.uasset: [Compiler] Idle to Walk/Run  will never be taken, please connect something to  Can Enter Transition
+[2024.05.03-23.01.38:407][386]LogBlueprint: Warning: [AssetLog] C:\Users\SgCab\Documents\GitHub\Recycligear\RecycligearProject\Content\Ancient_Golem\ThirdPerson_AnimBP.uasset: [Compiler] Walk/Run to JumpStart  will never be taken, please connect something to  Can Enter Transition
+[2024.05.03-23.01.38:438][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.05.03-23.01.40:110][489]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.03-23.01.40:180][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ancient_Golem/ThirdPerson_AnimBP" FILE="C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Ancient_Golem/ThirdPerson_AnimBP.uasset" SILENT=true
+[2024.05.03-23.01.40:204][489]LogSavePackage: Moving output files for package: /Game/Ancient_Golem/ThirdPerson_AnimBP
+[2024.05.03-23.01.40:204][489]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/ThirdPerson_AnimBP35E732F24A268F3DB928A38A16E72ACF.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Ancient_Golem/ThirdPerson_AnimBP.uasset'
+[2024.05.03-23.01.40:216][489]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 960 ms)
+[2024.05.03-23.01.40:220][489]AssetCheck: New page: Asset Save: ThirdPerson_AnimBP
+[2024.05.03-23.01.40:220][489]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Ancient_Golem/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2024.05.03-23.01.52:009][194]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2024.05.03-23.01.52:015][194]LogBlueprint: Warning: [AssetLog] C:\Users\SgCab\Documents\GitHub\Recycligear\RecycligearProject\Content\Ancient_Golem\ThirdPerson_AnimBP.uasset: [Compiler] Idle to Walk/Run  will never be taken, please connect something to  Can Enter Transition
+[2024.05.03-23.01.52:015][194]LogBlueprint: Warning: [AssetLog] C:\Users\SgCab\Documents\GitHub\Recycligear\RecycligearProject\Content\Ancient_Golem\ThirdPerson_AnimBP.uasset: [Compiler] Walk/Run to JumpStart  will never be taken, please connect something to  Can Enter Transition
+[2024.05.03-23.01.52:050][194]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.05.03-23.02.47:947][941]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2024.05.03-23.02.47:953][941]LogBlueprint: Warning: [AssetLog] C:\Users\SgCab\Documents\GitHub\Recycligear\RecycligearProject\Content\Ancient_Golem\ThirdPerson_AnimBP.uasset: [Compiler] Idle to Walk/Run  will never be taken, please connect something to  Can Enter Transition
+[2024.05.03-23.02.47:953][941]LogBlueprint: Warning: [AssetLog] C:\Users\SgCab\Documents\GitHub\Recycligear\RecycligearProject\Content\Ancient_Golem\ThirdPerson_AnimBP.uasset: [Compiler] Walk/Run to JumpStart  will never be taken, please connect something to  Can Enter Transition
+[2024.05.03-23.02.47:985][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.05.03-23.02.57:530][523]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.03-23.02.57:602][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ancient_Golem/ThirdPerson_AnimBP" FILE="C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Ancient_Golem/ThirdPerson_AnimBP.uasset" SILENT=true
+[2024.05.03-23.02.57:625][523]LogSavePackage: Moving output files for package: /Game/Ancient_Golem/ThirdPerson_AnimBP
+[2024.05.03-23.02.57:626][523]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/ThirdPerson_AnimBP3A27D7444F2014E3C63B60B199918BC2.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Ancient_Golem/ThirdPerson_AnimBP.uasset'
+[2024.05.03-23.02.57:637][523]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 1.06 sec)
+[2024.05.03-23.02.57:642][523]AssetCheck: New page: Asset Save: ThirdPerson_AnimBP
+[2024.05.03-23.02.57:642][523]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Ancient_Golem/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2024.05.03-23.03.32:111][528]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2024.05.03-23.03.32:117][528]LogBlueprint: Warning: [AssetLog] C:\Users\SgCab\Documents\GitHub\Recycligear\RecycligearProject\Content\Ancient_Golem\ThirdPerson_AnimBP.uasset: [Compiler] Idle to Walk/Run  will never be taken, please connect something to  Can Enter Transition
+[2024.05.03-23.03.32:117][528]LogBlueprint: Warning: [AssetLog] C:\Users\SgCab\Documents\GitHub\Recycligear\RecycligearProject\Content\Ancient_Golem\ThirdPerson_AnimBP.uasset: [Compiler] Walk/Run to JumpStart  will never be taken, please connect something to  Can Enter Transition
+[2024.05.03-23.03.32:151][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.05.03-23.03.44:407][121]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2024.05.03-23.03.44:413][121]LogBlueprint: Warning: [AssetLog] C:\Users\SgCab\Documents\GitHub\Recycligear\RecycligearProject\Content\Ancient_Golem\ThirdPerson_AnimBP.uasset: [Compiler] Idle to Walk/Run  will never be taken, please connect something to  Can Enter Transition
+[2024.05.03-23.03.44:413][121]LogBlueprint: Warning: [AssetLog] C:\Users\SgCab\Documents\GitHub\Recycligear\RecycligearProject\Content\Ancient_Golem\ThirdPerson_AnimBP.uasset: [Compiler] Walk/Run to JumpStart  will never be taken, please connect something to  Can Enter Transition
+[2024.05.03-23.03.44:447][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.05.03-23.03.45:251][169]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.03-23.03.45:323][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ancient_Golem/ThirdPerson_AnimBP" FILE="C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Ancient_Golem/ThirdPerson_AnimBP.uasset" SILENT=true
+[2024.05.03-23.03.45:347][169]LogSavePackage: Moving output files for package: /Game/Ancient_Golem/ThirdPerson_AnimBP
+[2024.05.03-23.03.45:348][169]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/ThirdPerson_AnimBP901870024B8717F2306B45A245A4A187.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Ancient_Golem/ThirdPerson_AnimBP.uasset'
+[2024.05.03-23.03.45:360][169]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 1.17 sec)
+[2024.05.03-23.03.45:366][169]AssetCheck: New page: Asset Save: ThirdPerson_AnimBP
+[2024.05.03-23.03.45:366][169]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Ancient_Golem/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2024.05.03-23.04.47:110][649]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.05.03-23.04.47:111][649]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.03-23.04.47:112][649]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.03-23.05.50:080][548]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.05.03-23.05.50:135][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.05.03-23.05.50:928][591]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.03-23.05.51:013][591]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.05.03-23.05.51:013][591]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/BP_ThirdPersonCharacterB5F82C904100FB3327784A98B288F4C1.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.05.03-23.05.51:026][591]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 1.27 sec)
+[2024.05.03-23.05.51:030][591]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.05.03-23.05.51:030][591]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.05.03-23.11.32:749][767]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'APawn::GetControlRotation' [Element not found.]
+[2024.05.03-23.15.42:155][558]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2024.05.03-23.15.42:195][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.05.03-23.15.45:631][754]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.03-23.15.45:704][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ancient_Golem/ThirdPerson_AnimBP" FILE="C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Ancient_Golem/ThirdPerson_AnimBP.uasset" SILENT=true
+[2024.05.03-23.15.45:724][754]LogSavePackage: Moving output files for package: /Game/Ancient_Golem/ThirdPerson_AnimBP
+[2024.05.03-23.15.45:725][754]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/ThirdPerson_AnimBPA71D5F524008A2731114289E3FCB0E01.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Ancient_Golem/ThirdPerson_AnimBP.uasset'
+[2024.05.03-23.15.45:738][754]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 1.37 sec)
+[2024.05.03-23.15.45:743][754]AssetCheck: New page: Asset Save: ThirdPerson_AnimBP
+[2024.05.03-23.15.45:743][754]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Ancient_Golem/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2024.05.03-23.15.51:388][114]LogDerivedDataCache: C:/Users/SgCab/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.083 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 897 files in 1586 folders with total size 118 MiB.
+[2024.05.03-23.16.33:286][685]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2024.05.03-23.16.33:293][685]LogBlueprint: Warning: [AssetLog] C:\Users\SgCab\Documents\GitHub\Recycligear\RecycligearProject\Content\Ancient_Golem\ThirdPerson_AnimBP.uasset: [Compiler] Idle to Walk/Run  will never be taken, please connect something to  Can Enter Transition
+[2024.05.03-23.16.33:293][685]LogBlueprint: Warning: [AssetLog] C:\Users\SgCab\Documents\GitHub\Recycligear\RecycligearProject\Content\Ancient_Golem\ThirdPerson_AnimBP.uasset: [Compiler] Walk/Run to JumpStart  will never be taken, please connect something to  Can Enter Transition
+[2024.05.03-23.16.33:333][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.05.03-23.17.12:791][172]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2024.05.03-23.17.12:798][172]LogBlueprint: Warning: [AssetLog] C:\Users\SgCab\Documents\GitHub\Recycligear\RecycligearProject\Content\Ancient_Golem\ThirdPerson_AnimBP.uasset: [Compiler] Idle to Walk/Run  will never be taken, please connect something to  Can Enter Transition
+[2024.05.03-23.17.12:799][172]LogBlueprint: Warning: [AssetLog] C:\Users\SgCab\Documents\GitHub\Recycligear\RecycligearProject\Content\Ancient_Golem\ThirdPerson_AnimBP.uasset: [Compiler] Walk/Run to JumpStart  will never be taken, please connect something to  Can Enter Transition
+[2024.05.03-23.17.12:836][172]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.05.03-23.17.56:439][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.05.03-23.17.56:443][736]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.025
+[2024.05.03-23.17.56:443][736]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Ancient_Golem/ThirdPerson_AnimBP] ([2] browsable assets)...
+[2024.05.03-23.17.56:461][736]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Ancient_Golem/ThirdPerson_AnimBP.ThirdPerson_AnimBP]
+[2024.05.03-23.17.56:462][736]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ancient_Golem/ThirdPerson_AnimBP]
+[2024.05.03-23.17.56:495][736]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Ancient_Golem/ThirdPerson_AnimBP_Auto2
+[2024.05.03-23.17.56:495][736]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/ThirdPerson_AnimBP_Auto2E32FACE047D68EF9274CBA8CD4205CFB.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/Autosaves/Game/Ancient_Golem/ThirdPerson_AnimBP_Auto2.uasset'
+[2024.05.03-23.17.56:496][736]LogFileHelpers: Auto-saving content packages took 0.053
+[2024.05.03-23.18.38:594][394]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2024.05.03-23.18.38:602][394]LogBlueprint: Warning: [AssetLog] C:\Users\SgCab\Documents\GitHub\Recycligear\RecycligearProject\Content\Ancient_Golem\ThirdPerson_AnimBP.uasset: [Compiler] Idle to Walk/Run  will never be taken, please connect something to  Can Enter Transition
+[2024.05.03-23.18.38:602][394]LogBlueprint: Warning: [AssetLog] C:\Users\SgCab\Documents\GitHub\Recycligear\RecycligearProject\Content\Ancient_Golem\ThirdPerson_AnimBP.uasset: [Compiler] Walk/Run to JumpStart  will never be taken, please connect something to  Can Enter Transition
+[2024.05.03-23.18.38:639][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.05.03-23.18.40:608][508]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.03-23.18.40:677][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ancient_Golem/ThirdPerson_AnimBP" FILE="C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Ancient_Golem/ThirdPerson_AnimBP.uasset" SILENT=true
+[2024.05.03-23.18.40:708][508]LogSavePackage: Moving output files for package: /Game/Ancient_Golem/ThirdPerson_AnimBP
+[2024.05.03-23.18.40:709][508]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/ThirdPerson_AnimBP0A9336E94C0514A79A4B4B99327EFB23.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Ancient_Golem/ThirdPerson_AnimBP.uasset'
+[2024.05.03-23.18.40:721][508]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 1.49 sec)
+[2024.05.03-23.18.40:725][508]AssetCheck: New page: Asset Save: ThirdPerson_AnimBP
+[2024.05.03-23.18.40:725][508]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Ancient_Golem/ThirdPerson_AnimBP.ThirdPerson_AnimBP
