@@ -7,7 +7,6 @@
 			"files": [
 				"C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/StarterContent/Materials/M_AssetPlatform.uasset",
 				"C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/AnimStarterPack/Showcase.umap",
 				"C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/AnimStarterPack/Ue4ASP_Character.uasset",
 				"C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.uasset",
 				"C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/AnimStarterPack/Aim_Space_Hip.uasset",
@@ -86,7 +85,24 @@
 				"C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.uasset",
 				"C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.uasset",
 				"C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/AnimStarterPack/Stand_To_Prone.uasset",
-				"C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Ancient_Golem/Demo/ThirdPerson_AnimBP.uasset"
+				"C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Ancient_Golem/Demo/ThirdPerson_AnimBP.uasset",
+				"C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Prone_Death_2.uasset",
+				"C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Prone_Fire_1.uasset",
+				"C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Prone_Fire_2.uasset",
+				"C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Prone_Idle.uasset",
+				"C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Prone_Reload_Rifle.uasset",
+				"C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Prone_Reload_Shotgun.uasset",
+				"C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Prone_To_Stand.uasset",
+				"C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Reload_Pistol.uasset",
+				"C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Reload_Rifle_Hip.uasset",
+				"C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Reload_Rifle_Ironsights.uasset",
+				"C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Reload_Shotgun_Hip.uasset",
+				"C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Reload_Shotgun_Ironsights.uasset",
+				"C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Sprint_Fwd_Rifle.uasset",
+				"C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Stand_to_Crouch_Rifle_Hip.uasset",
+				"C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Stand_to_Crouch_Rifle_Ironsights.uasset",
+				"C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Stand_To_Prone.uasset",
+				"C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/AnimStarterPack/Showcase.umap"
 			]
 		}
 	]
