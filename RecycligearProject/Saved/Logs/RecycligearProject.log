@@ -2319,3 +2319,830 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.03-23.18.40:721][508]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 1.49 sec)
 [2024.05.03-23.18.40:725][508]AssetCheck: New page: Asset Save: ThirdPerson_AnimBP
 [2024.05.03-23.18.40:725][508]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Ancient_Golem/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2024.05.03-23.28.40:027][830]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2024.05.03-23.28.46:230][830]LogSlate: Window 'Save Content' being destroyed
+[2024.05.03-23.28.46:259][830]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.03-23.28.46:308][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Aim_Space_Ironsights
+[2024.05.03-23.28.46:308][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Aim_Space_IronsightsEBF3EB264BB9F3E2C4B2EC8F43545E65.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Aim_Space_Ironsights.uasset'
+[2024.05.03-23.28.46:333][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Crouch_Idle_Rifle_Hip
+[2024.05.03-23.28.46:333][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Crouch_Idle_Rifle_HipAB840187478887046569CD9C45F13303.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Crouch_Idle_Rifle_Hip.uasset'
+[2024.05.03-23.28.46:356][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Crouch_Idle_Rifle_Ironsights
+[2024.05.03-23.28.46:356][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Crouch_Idle_Rifle_IronsightsAE0AD67C4D5C5F5E59C79BB26ED9987E.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Crouch_Idle_Rifle_Ironsights.uasset'
+[2024.05.03-23.28.46:377][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Crouch_to_Stand_Rifle_Hip
+[2024.05.03-23.28.46:377][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Crouch_to_Stand_Rifle_Hip560E762341850A96E514089AED33D728.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Crouch_to_Stand_Rifle_Hip.uasset'
+[2024.05.03-23.28.46:399][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Crouch_to_Stand_Rifle_Ironsights
+[2024.05.03-23.28.46:399][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Crouch_to_Stand_Rifle_Ironsi1F8701274C3A4E265D50F79DBE784A28.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Crouch_to_Stand_Rifle_Ironsights.uasset'
+[2024.05.03-23.28.46:420][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Crouch_Walk_Bwd_Rifle_Hip
+[2024.05.03-23.28.46:420][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Crouch_Walk_Bwd_Rifle_HipDB5657C64F8E8647B8F83D83B53DC180.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Crouch_Walk_Bwd_Rifle_Hip.uasset'
+[2024.05.03-23.28.46:442][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Crouch_Walk_Bwd_Rifle_Ironsights
+[2024.05.03-23.28.46:442][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Crouch_Walk_Bwd_Rifle_IronsiDBBC6F34435758B4D64AFAA558C166F7.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Crouch_Walk_Bwd_Rifle_Ironsights.uasset'
+[2024.05.03-23.28.46:468][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Crouch_Walk_Fwd_Rifle_Hip
+[2024.05.03-23.28.46:469][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Crouch_Walk_Fwd_Rifle_HipCB805950446121C3B773D3A93958C5E5.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Crouch_Walk_Fwd_Rifle_Hip.uasset'
+[2024.05.03-23.28.46:497][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Crouch_Walk_Fwd_Rifle_Ironsights
+[2024.05.03-23.28.46:497][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Crouch_Walk_Fwd_Rifle_Ironsi4AB6E4F843C8E3BFE59918B522F4F91F.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Crouch_Walk_Fwd_Rifle_Ironsights.uasset'
+[2024.05.03-23.28.46:525][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Crouch_Walk_Lt_Rifle_Hip
+[2024.05.03-23.28.46:526][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Crouch_Walk_Lt_Rifle_Hip7C021515436086170441E9A266940A61.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Crouch_Walk_Lt_Rifle_Hip.uasset'
+[2024.05.03-23.28.46:549][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Crouch_Walk_Lt_Rifle_Ironsights
+[2024.05.03-23.28.46:549][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Crouch_Walk_Lt_Rifle_IronsigD3286B5143D73ACDD0810F949DCC32FE.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Crouch_Walk_Lt_Rifle_Ironsights.uasset'
+[2024.05.03-23.28.46:575][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Crouch_Walk_Rt_Rifle_Hip
+[2024.05.03-23.28.46:575][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Crouch_Walk_Rt_Rifle_Hip395FA72049C437E2FC2BBE9B334B7B1A.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Crouch_Walk_Rt_Rifle_Hip.uasset'
+[2024.05.03-23.28.46:602][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Crouch_Walk_Rt_Rifle_Ironsights
+[2024.05.03-23.28.46:602][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Crouch_Walk_Rt_Rifle_Ironsig2F99F8C940ED1DAC5AA046B809173408.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Crouch_Walk_Rt_Rifle_Ironsights.uasset'
+[2024.05.03-23.28.46:615][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/fps_Death_1" FILE="C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Death_1.uasset" SILENT=true
+[2024.05.03-23.28.46:627][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Death_1
+[2024.05.03-23.28.46:627][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Death_11C297B1840F467CEAB527295594FACE1.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Death_1.uasset'
+[2024.05.03-23.28.46:638][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/fps_Death_2" FILE="C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Death_2.uasset" SILENT=true
+[2024.05.03-23.28.46:650][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Death_2
+[2024.05.03-23.28.46:650][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Death_29A365CAF41C1A134AE88F7845CA9F927.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Death_2.uasset'
+[2024.05.03-23.28.46:660][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/fps_Death_3" FILE="C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Death_3.uasset" SILENT=true
+[2024.05.03-23.28.46:672][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Death_3
+[2024.05.03-23.28.46:672][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Death_313C74DB44A4146312EA93BBC70DA8DA6.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Death_3.uasset'
+[2024.05.03-23.28.46:682][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/fps_Death_Ironsights_1" FILE="C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Death_Ironsights_1.uasset" SILENT=true
+[2024.05.03-23.28.46:694][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Death_Ironsights_1
+[2024.05.03-23.28.46:694][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Death_Ironsights_1B754731A4A7D1AFD7E73A2BA832D7D4C.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Death_Ironsights_1.uasset'
+[2024.05.03-23.28.46:704][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/fps_Death_Ironsights_2" FILE="C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Death_Ironsights_2.uasset" SILENT=true
+[2024.05.03-23.28.46:716][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Death_Ironsights_2
+[2024.05.03-23.28.46:716][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Death_Ironsights_2D1C4BE8E425EA6C82F31D29D07EA9F24.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Death_Ironsights_2.uasset'
+[2024.05.03-23.28.46:740][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Equip_Pistol_Standing
+[2024.05.03-23.28.46:740][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Equip_Pistol_Standing94807CB744678A4A6300BBAE9B562FFA.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Equip_Pistol_Standing.uasset'
+[2024.05.03-23.28.46:761][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Equip_Rifle_Standing
+[2024.05.03-23.28.46:761][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Equip_Rifle_Standing9236595C4BA5AF8CB5B84FB5DEC28E3F.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Equip_Rifle_Standing.uasset'
+[2024.05.03-23.28.46:770][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/fps_Fire_Rifle_Hip" FILE="C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Fire_Rifle_Hip.uasset" SILENT=true
+[2024.05.03-23.28.46:782][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Fire_Rifle_Hip
+[2024.05.03-23.28.46:782][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Fire_Rifle_HipD78E05DA4E19927CC16B7C8C22694673.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Fire_Rifle_Hip.uasset'
+[2024.05.03-23.28.46:802][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Fire_Rifle_Ironsights
+[2024.05.03-23.28.46:802][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Fire_Rifle_Ironsights2EF2B1AE4CCBBEE26A5805A2F0B51378.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Fire_Rifle_Ironsights.uasset'
+[2024.05.03-23.28.46:812][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/fps_Fire_Shotgun_Hip" FILE="C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Fire_Shotgun_Hip.uasset" SILENT=true
+[2024.05.03-23.28.46:824][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Fire_Shotgun_Hip
+[2024.05.03-23.28.46:824][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Fire_Shotgun_HipB05A19524F32559A5B48B0881AF3B9DF.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Fire_Shotgun_Hip.uasset'
+[2024.05.03-23.28.46:844][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Fire_Shotgun_Ironsights
+[2024.05.03-23.28.46:844][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Fire_Shotgun_Ironsights173361AF45E7B85B4F7C6FA0FAE21703.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Fire_Shotgun_Ironsights.uasset'
+[2024.05.03-23.28.46:854][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/fps_Hit_React_1" FILE="C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Hit_React_1.uasset" SILENT=true
+[2024.05.03-23.28.46:865][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Hit_React_1
+[2024.05.03-23.28.46:865][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Hit_React_138B2F32D4230560078FEDD907C5B650F.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Hit_React_1.uasset'
+[2024.05.03-23.28.46:874][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/fps_Hit_React_2" FILE="C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Hit_React_2.uasset" SILENT=true
+[2024.05.03-23.28.46:886][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Hit_React_2
+[2024.05.03-23.28.46:886][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Hit_React_2077DCC76474A2ADAABED1089E281A2E7.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Hit_React_2.uasset'
+[2024.05.03-23.28.46:896][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/fps_Hit_React_3" FILE="C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Hit_React_3.uasset" SILENT=true
+[2024.05.03-23.28.46:908][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Hit_React_3
+[2024.05.03-23.28.46:908][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Hit_React_301C5C86A47F41BF405DFC29036A7CC3B.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Hit_React_3.uasset'
+[2024.05.03-23.28.46:918][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/fps_Hit_React_4" FILE="C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Hit_React_4.uasset" SILENT=true
+[2024.05.03-23.28.46:929][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Hit_React_4
+[2024.05.03-23.28.46:929][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Hit_React_45C23025E47E7AE645BE8C99B4089991D.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Hit_React_4.uasset'
+[2024.05.03-23.28.46:939][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/fps_Idle_Pistol" FILE="C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Idle_Pistol.uasset" SILENT=true
+[2024.05.03-23.28.46:952][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Idle_Pistol
+[2024.05.03-23.28.46:952][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Idle_PistolBE8D2CE244A21E67DCC8FC81D341976D.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Idle_Pistol.uasset'
+[2024.05.03-23.28.46:961][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/fps_Idle_Rifle_Hip" FILE="C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Idle_Rifle_Hip.uasset" SILENT=true
+[2024.05.03-23.28.46:974][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Idle_Rifle_Hip
+[2024.05.03-23.28.46:974][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Idle_Rifle_HipB09461804EC1905BD37FD38B3E2808AD.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Idle_Rifle_Hip.uasset'
+[2024.05.03-23.28.46:996][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Idle_Rifle_Hip_Break1
+[2024.05.03-23.28.46:996][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Idle_Rifle_Hip_Break1AB754F7D424B1C8241881C8C5834538F.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Idle_Rifle_Hip_Break1.uasset'
+[2024.05.03-23.28.47:018][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Idle_Rifle_Hip_Break2
+[2024.05.03-23.28.47:018][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Idle_Rifle_Hip_Break2B9AAD7D1490A5182C42DC387087A1D7B.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Idle_Rifle_Hip_Break2.uasset'
+[2024.05.03-23.28.47:040][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Idle_Rifle_Ironsights
+[2024.05.03-23.28.47:040][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Idle_Rifle_IronsightsDF276890480F9A1A5D20F88EE3D9DBFF.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Idle_Rifle_Ironsights.uasset'
+[2024.05.03-23.28.47:050][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/fps_Jog_Bwd_Rifle" FILE="C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Jog_Bwd_Rifle.uasset" SILENT=true
+[2024.05.03-23.28.47:061][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Jog_Bwd_Rifle
+[2024.05.03-23.28.47:061][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Jog_Bwd_Rifle2F33C1AA47026E3F72F83D8082735CB6.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Jog_Bwd_Rifle.uasset'
+[2024.05.03-23.28.47:071][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/fps_Jog_Fwd_Rifle" FILE="C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Jog_Fwd_Rifle.uasset" SILENT=true
+[2024.05.03-23.28.47:082][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Jog_Fwd_Rifle
+[2024.05.03-23.28.47:082][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Jog_Fwd_RifleAD11C7D241EC3FA22EDD12A6451BD676.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Jog_Fwd_Rifle.uasset'
+[2024.05.03-23.28.47:091][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/fps_Jog_Lt_Rifle" FILE="C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Jog_Lt_Rifle.uasset" SILENT=true
+[2024.05.03-23.28.47:104][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Jog_Lt_Rifle
+[2024.05.03-23.28.47:104][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Jog_Lt_Rifle3D6A1DA641B6AEAC0D82CA9845310D6F.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Jog_Lt_Rifle.uasset'
+[2024.05.03-23.28.47:114][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/fps_Jog_Rt_Rifle" FILE="C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Jog_Rt_Rifle.uasset" SILENT=true
+[2024.05.03-23.28.47:125][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Jog_Rt_Rifle
+[2024.05.03-23.28.47:125][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Jog_Rt_RifleB2FD92324007D71A7E715890AA5554B5.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Jog_Rt_Rifle.uasset'
+[2024.05.03-23.28.47:135][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/fps_Jump_From_Jog" FILE="C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Jump_From_Jog.uasset" SILENT=true
+[2024.05.03-23.28.47:147][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Jump_From_Jog
+[2024.05.03-23.28.47:147][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Jump_From_JogDF3929ED41EEF23548A4C5A51EC3FABE.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Jump_From_Jog.uasset'
+[2024.05.03-23.28.47:157][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/fps_Jump_From_Stand" FILE="C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Jump_From_Stand.uasset" SILENT=true
+[2024.05.03-23.28.47:168][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Jump_From_Stand
+[2024.05.03-23.28.47:168][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Jump_From_StandF5C3BBA143E0DE56E614C7A02C6DA494.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Jump_From_Stand.uasset'
+[2024.05.03-23.28.47:189][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Jump_From_Stand_Ironsights
+[2024.05.03-23.28.47:189][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Jump_From_Stand_IronsightsDC1C4AEC4D460600C67E2BA3C813A1E4.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Jump_From_Stand_Ironsights.uasset'
+[2024.05.03-23.28.47:198][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/fps_Prone_Death_1" FILE="C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Prone_Death_1.uasset" SILENT=true
+[2024.05.03-23.28.47:209][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Prone_Death_1
+[2024.05.03-23.28.47:209][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Prone_Death_1F1AD16AB48F212EAADA83886F105D8FF.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Prone_Death_1.uasset'
+[2024.05.03-23.28.47:218][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/fps_Prone_Death_2" FILE="C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Prone_Death_2.uasset" SILENT=true
+[2024.05.03-23.28.47:230][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Prone_Death_2
+[2024.05.03-23.28.47:231][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Prone_Death_2F544248949A545307246C098FAE8FA99.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Prone_Death_2.uasset'
+[2024.05.03-23.28.47:232][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/fps_Prone_Fire_1" FILE="C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Prone_Fire_1.uasset" SILENT=true
+[2024.05.03-23.28.47:243][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Prone_Fire_1
+[2024.05.03-23.28.47:244][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Prone_Fire_16889DC8E47C7FD5F7F3E16B825DAB43B.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Prone_Fire_1.uasset'
+[2024.05.03-23.28.47:245][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/fps_Prone_Fire_2" FILE="C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Prone_Fire_2.uasset" SILENT=true
+[2024.05.03-23.28.47:256][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Prone_Fire_2
+[2024.05.03-23.28.47:257][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Prone_Fire_2536E077C47A9B11928E92798D1557769.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Prone_Fire_2.uasset'
+[2024.05.03-23.28.47:258][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/fps_Prone_Idle" FILE="C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Prone_Idle.uasset" SILENT=true
+[2024.05.03-23.28.47:270][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Prone_Idle
+[2024.05.03-23.28.47:271][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Prone_IdleA5C85F234A3E8B79A98ED3B1B4D88AAB.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Prone_Idle.uasset'
+[2024.05.03-23.28.47:272][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/fps_Prone_Reload_Rifle" FILE="C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Prone_Reload_Rifle.uasset" SILENT=true
+[2024.05.03-23.28.47:284][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Prone_Reload_Rifle
+[2024.05.03-23.28.47:284][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Prone_Reload_RifleFDA14AC945FDD4DBCA50E1A543FB7C65.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Prone_Reload_Rifle.uasset'
+[2024.05.03-23.28.47:299][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Prone_Reload_Shotgun
+[2024.05.03-23.28.47:299][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Prone_Reload_Shotgun443746C54145E987F2DAB59A51C873F1.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Prone_Reload_Shotgun.uasset'
+[2024.05.03-23.28.47:300][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/fps_Prone_To_Stand" FILE="C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Prone_To_Stand.uasset" SILENT=true
+[2024.05.03-23.28.47:313][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Prone_To_Stand
+[2024.05.03-23.28.47:313][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Prone_To_Stand74DE85CD499567513F66CCB7150EDCD0.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Prone_To_Stand.uasset'
+[2024.05.03-23.28.47:314][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/fps_Reload_Pistol" FILE="C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Reload_Pistol.uasset" SILENT=true
+[2024.05.03-23.28.47:326][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Reload_Pistol
+[2024.05.03-23.28.47:327][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Reload_Pistol5B6CB7D946E12B95EF49C8996A682ACD.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Reload_Pistol.uasset'
+[2024.05.03-23.28.47:328][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/fps_Reload_Rifle_Hip" FILE="C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Reload_Rifle_Hip.uasset" SILENT=true
+[2024.05.03-23.28.47:341][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Reload_Rifle_Hip
+[2024.05.03-23.28.47:342][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Reload_Rifle_Hip6F9F19E7499A36B9E7A6B7A3ED2236E9.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Reload_Rifle_Hip.uasset'
+[2024.05.03-23.28.47:357][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Reload_Rifle_Ironsights
+[2024.05.03-23.28.47:357][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Reload_Rifle_Ironsights8307622D41B71D35A85A86B1FF6FAC18.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Reload_Rifle_Ironsights.uasset'
+[2024.05.03-23.28.47:359][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/fps_Reload_Shotgun_Hip" FILE="C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Reload_Shotgun_Hip.uasset" SILENT=true
+[2024.05.03-23.28.47:372][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Reload_Shotgun_Hip
+[2024.05.03-23.28.47:373][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Reload_Shotgun_HipD02D95CA4561E8FEAF4FB98BFE210E42.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Reload_Shotgun_Hip.uasset'
+[2024.05.03-23.28.47:388][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Reload_Shotgun_Ironsights
+[2024.05.03-23.28.47:388][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Reload_Shotgun_IronsightsFA22981647BC352B51C4F99565A5DD7E.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Reload_Shotgun_Ironsights.uasset'
+[2024.05.03-23.28.47:390][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/fps_Sprint_Fwd_Rifle" FILE="C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Sprint_Fwd_Rifle.uasset" SILENT=true
+[2024.05.03-23.28.47:402][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Sprint_Fwd_Rifle
+[2024.05.03-23.28.47:403][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Sprint_Fwd_Rifle4A2616CF44A9584BC37BAD9B4B03D48E.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Sprint_Fwd_Rifle.uasset'
+[2024.05.03-23.28.47:416][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Stand_to_Crouch_Rifle_Hip
+[2024.05.03-23.28.47:417][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Stand_to_Crouch_Rifle_Hip0B8CE1104AD84F89C2DFD2B2EBE6A2B9.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Stand_to_Crouch_Rifle_Hip.uasset'
+[2024.05.03-23.28.47:432][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Stand_to_Crouch_Rifle_Ironsights
+[2024.05.03-23.28.47:432][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Stand_to_Crouch_Rifle_IronsiFA9AF1A344FC3CA39C4036AB65BA459A.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Stand_to_Crouch_Rifle_Ironsights.uasset'
+[2024.05.03-23.28.47:434][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/fps_Stand_To_Prone" FILE="C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Stand_To_Prone.uasset" SILENT=true
+[2024.05.03-23.28.47:449][830]LogSavePackage: Moving output files for package: /Game/Animations/fps_Stand_To_Prone
+[2024.05.03-23.28.47:450][830]LogSavePackage: Moving 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Saved/fps_Stand_To_ProneCE662FAC469940CBAA779D8FE2ADA7F9.tmp' to 'C:/Users/SgCab/Documents/GitHub/Recycligear/RecycligearProject/Content/Animations/fps_Stand_To_Prone.uasset'
+[2024.05.03-23.28.47:467][830]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.20 sec (total: 2.70 sec)
+[2024.05.03-23.28.47:470][830]LogStall: Shutdown...
+[2024.05.03-23.28.47:476][830]LogStall: Shutdown complete.
+[2024.05.03-23.28.47:520][830]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2024.05.03-23.28.47:520][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.03-23.28.47:532][830]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2024.05.03-23.28.47:532][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.03-23.28.47:538][830]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2024.05.03-23.28.47:538][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.03-23.28.47:555][830]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2024.05.03-23.28.47:569][830]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2024.05.03-23.28.47:569][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.03-23.28.47:606][830]LogSlate: Window 'RecycligearProject - Unreal Editor' being destroyed
+[2024.05.03-23.28.47:700][830]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Reload_Rifle_Ironsights.fps_Reload_Rifle_Ironsights
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Reload_Rifle_Hip.fps_Reload_Rifle_Hip
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Reload_Shotgun_Hip.fps_Reload_Shotgun_Hip
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Reload_Pistol.fps_Reload_Pistol
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Prone_To_Stand.fps_Prone_To_Stand
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Prone_Reload_Shotgun.fps_Prone_Reload_Shotgun
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Prone_Reload_Rifle.fps_Prone_Reload_Rifle
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Prone_Idle.fps_Prone_Idle
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Prone_Fire_2.fps_Prone_Fire_2
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Prone_Fire_1.fps_Prone_Fire_1
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Prone_Death_2.fps_Prone_Death_2
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Reload_Shotgun_Ironsights.fps_Reload_Shotgun_Ironsights
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Sprint_Fwd_Rifle.fps_Sprint_Fwd_Rifle
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Stand_to_Crouch_Rifle_Hip.fps_Stand_to_Crouch_Rifle_Hip
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Stand_to_Crouch_Rifle_Ironsights.fps_Stand_to_Crouch_Rifle_Ironsights
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Stand_To_Prone.fps_Stand_To_Prone
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Prone_Death_1.fps_Prone_Death_1
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Crouch_Idle_Rifle_Hip.fps_Crouch_Idle_Rifle_Hip
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Crouch_Idle_Rifle_Ironsights.fps_Crouch_Idle_Rifle_Ironsights
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Crouch_to_Stand_Rifle_Hip.fps_Crouch_to_Stand_Rifle_Hip
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Crouch_to_Stand_Rifle_Ironsights.fps_Crouch_to_Stand_Rifle_Ironsights
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Crouch_Walk_Bwd_Rifle_Hip.fps_Crouch_Walk_Bwd_Rifle_Hip
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Crouch_Walk_Bwd_Rifle_Ironsights.fps_Crouch_Walk_Bwd_Rifle_Ironsights
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Crouch_Walk_Fwd_Rifle_Hip.fps_Crouch_Walk_Fwd_Rifle_Hip
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Crouch_Walk_Fwd_Rifle_Ironsights.fps_Crouch_Walk_Fwd_Rifle_Ironsights
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Crouch_Walk_Lt_Rifle_Hip.fps_Crouch_Walk_Lt_Rifle_Hip
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Crouch_Walk_Lt_Rifle_Ironsights.fps_Crouch_Walk_Lt_Rifle_Ironsights
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Crouch_Walk_Rt_Rifle_Hip.fps_Crouch_Walk_Rt_Rifle_Hip
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Crouch_Walk_Rt_Rifle_Ironsights.fps_Crouch_Walk_Rt_Rifle_Ironsights
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Death_1.fps_Death_1
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Death_2.fps_Death_2
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Death_3.fps_Death_3
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Death_Ironsights_1.fps_Death_Ironsights_1
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Death_Ironsights_2.fps_Death_Ironsights_2
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Equip_Pistol_Standing.fps_Equip_Pistol_Standing
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Equip_Rifle_Standing.fps_Equip_Rifle_Standing
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Fire_Rifle_Hip.fps_Fire_Rifle_Hip
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Fire_Rifle_Ironsights.fps_Fire_Rifle_Ironsights
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Fire_Shotgun_Hip.fps_Fire_Shotgun_Hip
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Fire_Shotgun_Ironsights.fps_Fire_Shotgun_Ironsights
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Hit_React_1.fps_Hit_React_1
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Hit_React_2.fps_Hit_React_2
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Hit_React_3.fps_Hit_React_3
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Hit_React_4.fps_Hit_React_4
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Idle_Pistol.fps_Idle_Pistol
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Idle_Rifle_Hip.fps_Idle_Rifle_Hip
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Idle_Rifle_Hip_Break1.fps_Idle_Rifle_Hip_Break1
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Idle_Rifle_Hip_Break2.fps_Idle_Rifle_Hip_Break2
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Idle_Rifle_Ironsights.fps_Idle_Rifle_Ironsights
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Jog_Bwd_Rifle.fps_Jog_Bwd_Rifle
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Jog_Fwd_Rifle.fps_Jog_Fwd_Rifle
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Jog_Lt_Rifle.fps_Jog_Lt_Rifle
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Jog_Rt_Rifle.fps_Jog_Rt_Rifle
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Jump_From_Jog.fps_Jump_From_Jog
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Jump_From_Stand.fps_Jump_From_Stand
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Jump_From_Stand_Ironsights.fps_Jump_From_Stand_Ironsights
+[2024.05.03-23.28.47:700][830]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/fps_Aim_Space_Ironsights.fps_Aim_Space_Ironsights
+[2024.05.03-23.28.47:704][831]Cmd: QUIT_EDITOR
+[2024.05.03-23.28.47:704][831]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.05.03-23.28.47:708][831]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.05.03-23.28.47:708][831]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.05.03-23.28.47:708][831]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.05.03-23.28.47:708][831]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.03-23.28.47:708][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.03-23.28.47:708][831]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.05.03-23.28.47:708][831]LogStylusInput: Shutting down StylusInput subsystem.
+[2024.05.03-23.28.47:709][831]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.05.03-23.28.48:095][831]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.05.03-23.28.48:095][831]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.05.03-23.28.48:095][831]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonMap'.
+[2024.05.03-23.28.48:095][831]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.05.03-23.28.48:095][831]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.05.03-23.28.48:096][831]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.05.03-23.28.48:117][831]LogAudio: Display: Audio Device Manager Shutdown
+[2024.05.03-23.28.48:120][831]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.05.03-23.28.48:120][831]LogExit: Preparing to exit.
+[2024.05.03-23.28.48:146][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.05.03-23.28.48:161][831]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.03-23.28.48:161][831]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.03-23.28.48:161][831]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.03-23.28.48:161][831]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.03-23.28.48:161][831]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.03-23.28.48:161][831]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.03-23.28.48:161][831]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.03-23.28.48:161][831]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.03-23.28.48:161][831]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.03-23.28.48:161][831]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.03-23.28.48:161][831]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.03-23.28.48:161][831]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.03-23.28.48:161][831]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.03-23.28.48:161][831]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.03-23.28.48:161][831]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.03-23.28.48:161][831]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.03-23.28.48:161][831]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.03-23.28.48:161][831]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.03-23.28.48:161][831]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.03-23.28.49:032][831]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.05.03-23.28.49:032][831]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.05.03-23.28.49:032][831]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.05.03-23.28.49:032][831]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.05.03-23.28.49:032][831]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.05.03-23.28.49:032][831]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.05.03-23.28.49:032][831]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.05.03-23.28.49:032][831]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.05.03-23.28.49:034][831]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.05.03-23.28.49:034][831]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.05.03-23.28.49:034][831]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.05.03-23.28.49:034][831]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.05.03-23.28.49:034][831]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.05.03-23.28.49:034][831]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.05.03-23.28.49:034][831]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.05.03-23.28.49:034][831]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.05.03-23.28.49:035][831]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.05.03-23.28.49:037][831]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.03-23.28.49:039][831]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.05.03-23.28.49:040][831]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.05.03-23.28.49:041][831]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.05.03-23.28.49:043][831]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.05.03-23.28.49:044][831]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.05.03-23.28.49:045][831]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.05.03-23.28.49:046][831]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.05.03-23.28.49:047][831]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.05.03-23.28.49:047][831]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.05.03-23.28.49:048][831]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.05.03-23.28.49:048][831]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.05.03-23.28.49:050][831]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.05.03-23.28.49:051][831]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.05.03-23.28.49:052][831]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2024.05.03-23.28.49:053][831]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.05.03-23.28.49:054][831]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.05.03-23.28.49:055][831]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.05.03-23.28.49:056][831]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.05.03-23.28.49:110][831]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.05.03-23.28.49:115][831]LogExit: Editor shut down
+[2024.05.03-23.28.49:116][831]LogExit: Transaction tracking system shut down
+[2024.05.03-23.28.49:237][831]LogExit: Object subsystem successfully closed.
+[2024.05.03-23.28.49:242][831]LogShaderCompilers: Display: ================================================
+[2024.05.03-23.28.49:242][831]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.03-23.28.49:242][831]LogShaderCompilers: Display: Total job queries 51, among them cache hits 5 (9.80%)
+[2024.05.03-23.28.49:242][831]LogShaderCompilers: Display: Tracking 46 distinct input hashes that result in 18 distinct outputs (39.13%)
+[2024.05.03-23.28.49:242][831]LogShaderCompilers: Display: RAM used: 1.02 MiB of 3.20 GiB budget. Usage: 0.03%
+[2024.05.03-23.28.49:242][831]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.03-23.28.49:242][831]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.05.03-23.28.49:242][831]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.05.03-23.28.49:242][831]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.05.03-23.28.49:242][831]LogShaderCompilers: Display: ================================================
+[2024.05.03-23.28.49:258][831]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.05.03-23.28.49:272][831]LogVirtualization: UE::Virtualization was shutdown
+[2024.05.03-23.28.49:282][831]LogModuleManager: Shutting down and abandoning module SequencerWidgets (1023)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module AnimationEditor (1021)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module PinnedCommandList (1019)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module SkeletonEditor (1017)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (1015)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module Voice (1013)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1011)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1009)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module SceneOutliner (1007)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module AddContentDialog (1005)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1004)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module StatusBar (1001)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (999)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (997)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module StatsViewer (995)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (993)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module AutomationWorker (991)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (989)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (987)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (985)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module WaveTableEditor (983)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (981)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module GooglePADEditor (979)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (977)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (975)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module PlanarCut (973)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module FractureEngine (971)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module CharacterAI (969)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (967)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (965)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (963)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module TextureAlignMode (961)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module BspMode (959)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module GeometryMode (957)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (955)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module SequenceRecorder (954)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (951)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (949)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (947)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (945)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (943)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module WebMMedia (941)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (939)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (937)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (935)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (933)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (931)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (929)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module ControlRigEditor (927)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module IKRigEditor (925)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module SmartSnapping (923)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module SessionServices (921)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module MeshPaint (919)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (917)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module PlacementMode (916)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module FoliageEdit (913)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module LandscapeEditor (911)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (909)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module ActorPickerMode (907)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module ViewportSnapping (905)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module ViewportInteraction (903)
+[2024.05.03-23.28.49:283][831]LogModuleManager: Shutting down and abandoning module ClothPainter (901)
+[2024.05.03-23.28.49:284][831]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (900)
+[2024.05.03-23.28.49:284][831]LogModuleManager: Shutting down and abandoning module LogVisualizer (897)
+[2024.05.03-23.28.49:284][831]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (895)
+[2024.05.03-23.28.49:284][831]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (893)
+[2024.05.03-23.28.49:284][831]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (892)
+[2024.05.03-23.28.49:284][831]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (890)
+[2024.05.03-23.28.50:041][831]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (887)
+[2024.05.03-23.28.50:041][831]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (885)
+[2024.05.03-23.28.50:041][831]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (883)
+[2024.05.03-23.28.50:041][831]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (881)
+[2024.05.03-23.28.50:041][831]LogModuleManager: Shutting down and abandoning module RenderResourceViewer (879)
+[2024.05.03-23.28.50:041][831]LogModuleManager: Shutting down and abandoning module GameplayDebuggerEditor (877)
+[2024.05.03-23.28.50:041][831]LogModuleManager: Shutting down and abandoning module AnimationSettings (875)
+[2024.05.03-23.28.50:041][831]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (873)
+[2024.05.03-23.28.50:041][831]LogModuleManager: Shutting down and abandoning module CSVtoSVG (871)
+[2024.05.03-23.28.50:041][831]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (869)
+[2024.05.03-23.28.50:041][831]LogModuleManager: Shutting down and abandoning module EditorConfig (867)
+[2024.05.03-23.28.50:041][831]LogModuleManager: Shutting down and abandoning module EditorFramework (865)
+[2024.05.03-23.28.50:041][831]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (863)
+[2024.05.03-23.28.50:041][831]LogModuleManager: Shutting down and abandoning module TraceInsights (861)
+[2024.05.03-23.28.50:041][831]MemoryProfiler: Shutdown
+[2024.05.03-23.28.50:041][831]NetworkingProfiler: Shutdown
+[2024.05.03-23.28.50:041][831]LoadingProfiler: Shutdown
+[2024.05.03-23.28.50:041][831]TimingProfiler: Shutdown
+[2024.05.03-23.28.50:041][831]LogModuleManager: Shutting down and abandoning module TraceServices (860)
+[2024.05.03-23.28.50:041][831]LogModuleManager: Shutting down and abandoning module TraceAnalysis (859)
+[2024.05.03-23.28.50:041][831]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (855)
+[2024.05.03-23.28.50:041][831]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (854)
+[2024.05.03-23.28.50:041][831]LogModuleManager: Shutting down and abandoning module InputBindingEditor (851)
+[2024.05.03-23.28.50:041][831]LogModuleManager: Shutting down and abandoning module MergeActors (849)
+[2024.05.03-23.28.50:041][831]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (847)
+[2024.05.03-23.28.50:041][831]LogModuleManager: Shutting down and abandoning module LocalizationService (846)
+[2024.05.03-23.28.50:041][831]LogModuleManager: Shutting down and abandoning module HardwareTargeting (843)
+[2024.05.03-23.28.50:041][831]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (841)
+[2024.05.03-23.28.50:041][831]LogModuleManager: Shutting down and abandoning module UndoHistory (839)
+[2024.05.03-23.28.50:041][831]LogModuleManager: Shutting down and abandoning module XmlParser (837)
+[2024.05.03-23.28.50:041][831]LogModuleManager: Shutting down and abandoning module Blutility (835)
+[2024.05.03-23.28.50:041][831]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (833)
+[2024.05.03-23.28.50:041][831]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (832)
+[2024.05.03-23.28.50:041][831]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (829)
+[2024.05.03-23.28.50:041][831]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (828)
+[2024.05.03-23.28.50:041][831]LogModuleManager: Shutting down and abandoning module SettingsEditor (825)
+[2024.05.03-23.28.50:041][831]LogModuleManager: Shutting down and abandoning module ProjectLauncher (823)
+[2024.05.03-23.28.50:041][831]LogModuleManager: Shutting down and abandoning module SessionFrontend (821)
+[2024.05.03-23.28.50:041][831]LogModuleManager: Shutting down and abandoning module ProfilerClient (819)
+[2024.05.03-23.28.50:041][831]LogModuleManager: Shutting down and abandoning module DeviceManager (817)
+[2024.05.03-23.28.50:041][831]LogModuleManager: Shutting down and abandoning module AutomationController (815)
+[2024.05.03-23.28.50:041][831]LogModuleManager: Shutting down and abandoning module AutomationWindow (813)
+[2024.05.03-23.28.50:041][831]LogModuleManager: Shutting down and abandoning module Layers (811)
+[2024.05.03-23.28.50:041][831]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (809)
+[2024.05.03-23.28.50:041][831]LogModuleManager: Shutting down and abandoning module DetailCustomizations (807)
+[2024.05.03-23.28.50:042][831]LogModuleManager: Shutting down and abandoning module PackagesDialog (805)
+[2024.05.03-23.28.50:042][831]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (803)
+[2024.05.03-23.28.50:042][831]LogModuleManager: Shutting down and abandoning module Persona (801)
+[2024.05.03-23.28.50:042][831]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (800)
+[2024.05.03-23.28.50:042][831]LogModuleManager: Shutting down and abandoning module Kismet (797)
+[2024.05.03-23.28.50:050][831]LogModuleManager: Shutting down and abandoning module KismetWidgets (796)
+[2024.05.03-23.28.50:050][831]LogModuleManager: Shutting down and abandoning module GraphEditor (793)
+[2024.05.03-23.28.50:050][831]LogModuleManager: Shutting down and abandoning module StructViewer (791)
+[2024.05.03-23.28.50:050][831]LogModuleManager: Shutting down and abandoning module ClassViewer (789)
+[2024.05.03-23.28.50:050][831]LogModuleManager: Shutting down and abandoning module NaniteTools (787)
+[2024.05.03-23.28.50:050][831]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (785)
+[2024.05.03-23.28.50:051][831]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (783)
+[2024.05.03-23.28.50:051][831]LogModuleManager: Shutting down and abandoning module SourceControlWindows (781)
+[2024.05.03-23.28.50:051][831]LogModuleManager: Shutting down and abandoning module OutputLog (779)
+[2024.05.03-23.28.50:051][831]LogModuleManager: Shutting down and abandoning module Documentation (777)
+[2024.05.03-23.28.50:051][831]LogModuleManager: Shutting down and abandoning module LiveCoding (775)
+[2024.05.03-23.28.50:054][831]LogModuleManager: Shutting down and abandoning module SparseVolumeTexture (773)
+[2024.05.03-23.28.50:054][831]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (771)
+[2024.05.03-23.28.50:054][831]LogModuleManager: Shutting down and abandoning module MovieScene (769)
+[2024.05.03-23.28.50:054][831]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (767)
+[2024.05.03-23.28.50:054][831]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (765)
+[2024.05.03-23.28.50:054][831]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (763)
+[2024.05.03-23.28.50:055][831]LogModuleManager: Shutting down and abandoning module AudioMixer (762)
+[2024.05.03-23.28.50:055][831]LogModuleManager: Shutting down and abandoning module AudioMixerCore (761)
+[2024.05.03-23.28.50:055][831]LogModuleManager: Shutting down and abandoning module LauncherPlatform (757)
+[2024.05.03-23.28.50:055][831]LogModuleManager: Shutting down and abandoning module AnalyticsET (755)
+[2024.05.03-23.28.50:055][831]LogModuleManager: Shutting down and abandoning module PortalServices (753)
+[2024.05.03-23.28.50:055][831]LogModuleManager: Shutting down and abandoning module PortalRpc (751)
+[2024.05.03-23.28.50:055][831]LogModuleManager: Shutting down and abandoning module MessagingRpc (749)
+[2024.05.03-23.28.50:055][831]LogModuleManager: Shutting down and abandoning module AIModule (747)
+[2024.05.03-23.28.50:055][831]LogModuleManager: Shutting down and abandoning module GameplayDebugger (746)
+[2024.05.03-23.28.50:055][831]LogModuleManager: Shutting down and abandoning module AITestSuite (744)
+[2024.05.03-23.28.50:055][831]LogModuleManager: Shutting down and abandoning module NavigationSystem (742)
+[2024.05.03-23.28.50:055][831]LogModuleManager: Shutting down and abandoning module DataLayerEditor (739)
+[2024.05.03-23.28.50:055][831]LogModuleManager: Shutting down and abandoning module EditorWidgets (738)
+[2024.05.03-23.28.50:055][831]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (735)
+[2024.05.03-23.28.50:055][831]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (733)
+[2024.05.03-23.28.50:055][831]LogModuleManager: Shutting down and abandoning module TypedElementFramework (731)
+[2024.05.03-23.28.50:055][831]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (729)
+[2024.05.03-23.28.50:055][831]LogModuleManager: Shutting down and abandoning module ProfilerService (727)
+[2024.05.03-23.28.50:295][831]LogModuleManager: Shutting down and abandoning module ProfileVisualizer (725)
+[2024.05.03-23.28.50:295][831]LogModuleManager: Shutting down and abandoning module CacheTrackRecorder (723)
+[2024.05.03-23.28.50:295][831]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (721)
+[2024.05.03-23.28.50:295][831]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (719)
+[2024.05.03-23.28.50:295][831]LogModuleManager: Shutting down and abandoning module TakesCore (717)
+[2024.05.03-23.28.50:295][831]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (715)
+[2024.05.03-23.28.50:295][831]LogModuleManager: Shutting down and abandoning module MegascansPlugin (713)
+[2024.05.03-23.28.50:295][831]LogModuleManager: Shutting down and abandoning module Bridge (711)
+[2024.05.03-23.28.50:295][831]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (709)
+[2024.05.03-23.28.50:295][831]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (707)
+[2024.05.03-23.28.50:295][831]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (705)
+[2024.05.03-23.28.50:295][831]LogModuleManager: Shutting down and abandoning module CollectionManager (704)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (701)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module LightMixer (699)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module TakeSequencer (697)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module TakeMovieScene (695)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module TemplateSequence (693)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (691)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module SequencerScripting (689)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (687)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module InterchangeTests (685)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module AlembicImporter (683)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module AlembicLibrary (682)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module SynthesisEditor (679)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module ResonanceAudio (677)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (675)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (673)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (671)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module ModelingOperators (669)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (667)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module ModelingComponents (665)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module GeometryFramework (664)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (661)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module MeshModelingTools (659)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module InputDebuggingEditor (657)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module InputDebugging (655)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module DynamicMesh (653)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (651)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module GooglePAD (649)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (647)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module GeometryCache (645)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (643)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (641)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (639)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module AudioCapture (637)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (636)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module AssetTags (633)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (631)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (629)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module AppleImageUtils (627)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module AndroidPermission (625)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (623)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (621)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (617)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (615)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (613)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module InterchangeEditor (611)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (609)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (607)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (605)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module InterchangePipelines (603)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module InterchangeExport (601)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module InterchangeMessages (599)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module InterchangeImport (597)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (595)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module InterchangeNodes (593)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (591)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module UVEditorTools (589)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module UVEditor (587)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module PresetAsset (585)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (583)
+[2024.05.03-23.28.50:296][831]LogOpenImageDenoise: OIDN shutting down
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (581)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (579)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (577)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (575)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module MeshLODToolset (573)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (571)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (569)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (567)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (565)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (563)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (562)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (560)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (557)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module DataflowNodes (555)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module DataflowEnginePlugin (553)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module DataflowEditor (551)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module ChaosNiagara (549)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (547)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (545)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module FractureEditor (543)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (541)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module BackChannel (539)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (537)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module AutomationUtils (535)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (533)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module VariantManager (531)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (530)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (527)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module StylusInput (525)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (523)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (521)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module ImgMedia (519)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module PluginBrowser (517)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (515)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (513)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (511)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (509)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module GLTFImporter (507)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module GLTFCore (505)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module MediaCompositing (503)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module UObjectPlugin (501)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (499)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module CryptoKeys (497)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module EditorDebugTools (495)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (493)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module CurveEditorTools (491)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module ChangelistReview (489)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (487)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (485)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (483)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (481)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module PluginUtils (479)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (477)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (475)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (473)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (471)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module MediaPlate (469)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module DumpGPUServices (467)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module GitSourceControl (465)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (463)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (461)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (459)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module ControlRigSpline (457)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (455)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (453)
+[2024.05.03-23.28.50:296][831]LogModuleManager: Shutting down and abandoning module Paper2DEditor (451)
+[2024.05.03-23.28.50:297][831]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (449)
+[2024.05.03-23.28.50:297][831]LogModuleManager: Shutting down and abandoning module TraceUtilities (447)
+[2024.05.03-23.28.50:297][831]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (445)
+[2024.05.03-23.28.50:297][831]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (443)
+[2024.05.03-23.28.50:297][831]LogModuleManager: Shutting down and abandoning module InputEditor (441)
+[2024.05.03-23.28.50:297][831]LogModuleManager: Shutting down and abandoning module BlueprintGraph (440)
+[2024.05.03-23.28.50:297][831]LogModuleManager: Shutting down and abandoning module UdpMessaging (437)
+[2024.05.03-23.28.50:398][831]LogModuleManager: Shutting down and abandoning module TcpMessaging (435)
+[2024.05.03-23.28.50:498][831]LogModuleManager: Shutting down and abandoning module ActorSequence (433)
+[2024.05.03-23.28.50:498][831]LogModuleManager: Shutting down and abandoning module Synthesis (431)
+[2024.05.03-23.28.50:498][831]LogModuleManager: Shutting down and abandoning module SoundFields (429)
+[2024.05.03-23.28.50:498][831]LogModuleManager: Shutting down and abandoning module SignificanceManager (427)
+[2024.05.03-23.28.50:498][831]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (425)
+[2024.05.03-23.28.50:498][831]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (423)
+[2024.05.03-23.28.50:498][831]LogModuleManager: Shutting down and abandoning module MetasoundEditor (421)
+[2024.05.03-23.28.50:498][831]LogModuleManager: Shutting down and abandoning module AudioWidgets (420)
+[2024.05.03-23.28.50:498][831]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (419)
+[2024.05.03-23.28.50:498][831]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (415)
+[2024.05.03-23.28.50:498][831]LogModuleManager: Shutting down and abandoning module MetasoundEngine (413)
+[2024.05.03-23.28.50:498][831]LogModuleManager: Shutting down and abandoning module WaveTable (412)
+[2024.05.03-23.28.50:498][831]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (410)
+[2024.05.03-23.28.50:498][831]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (407)
+[2024.05.03-23.28.50:498][831]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (405)
+[2024.05.03-23.28.50:498][831]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (403)
+[2024.05.03-23.28.50:498][831]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (401)
+[2024.05.03-23.28.50:498][831]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (399)
+[2024.05.03-23.28.50:498][831]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (397)
+[2024.05.03-23.28.50:498][831]LogModuleManager: Shutting down and abandoning module CableComponent (395)
+[2024.05.03-23.28.50:498][831]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (393)
+[2024.05.03-23.28.50:498][831]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (392)
+[2024.05.03-23.28.50:498][831]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (389)
+[2024.05.03-23.28.50:498][831]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (387)
+[2024.05.03-23.28.50:498][831]LogModuleManager: Shutting down and abandoning module PBIK (385)
+[2024.05.03-23.28.50:498][831]LogModuleManager: Shutting down and abandoning module FullBodyIK (383)
+[2024.05.03-23.28.50:498][831]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (381)
+[2024.05.03-23.28.50:498][831]LogModuleManager: Shutting down and abandoning module TakeRecorder (380)
+[2024.05.03-23.28.50:498][831]LogModuleManager: Shutting down and abandoning module ChaosCaching (377)
+[2024.05.03-23.28.50:498][831]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (375)
+[2024.05.03-23.28.50:498][831]LogModuleManager: Shutting down and abandoning module Niagara (373)
+[2024.05.03-23.28.50:498][831]LogModuleManager: Shutting down and abandoning module SignalProcessing (372)
+[2024.05.03-23.28.50:498][831]LogModuleManager: Shutting down and abandoning module NiagaraEditor (370)
+[2024.05.03-23.28.50:498][831]LogModuleManager: Shutting down and abandoning module NiagaraCore (367)
+[2024.05.03-23.28.50:498][831]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (365)
+[2024.05.03-23.28.50:498][831]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (363)
+[2024.05.03-23.28.50:498][831]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (361)
+[2024.05.03-23.28.50:498][831]LogModuleManager: Shutting down and abandoning module FacialAnimation (359)
+[2024.05.03-23.28.50:498][831]LogModuleManager: Shutting down and abandoning module DataValidation (357)
+[2024.05.03-23.28.50:498][831]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (355)
+[2024.05.03-23.28.50:498][831]LogModuleManager: Shutting down and abandoning module LevelEditor (354)
+[2024.05.03-23.28.50:500][831]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (353)
+[2024.05.03-23.28.50:500][831]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (351)
+[2024.05.03-23.28.50:501][831]LogModuleManager: Shutting down and abandoning module MainFrame (349)
+[2024.05.03-23.28.50:501][831]LogModuleManager: Shutting down and abandoning module HotReload (348)
+[2024.05.03-23.28.50:501][831]LogModuleManager: Shutting down and abandoning module ContentBrowser (344)
+[2024.05.03-23.28.50:501][831]LogModuleManager: Shutting down and abandoning module ToolMenus (343)
+[2024.05.03-23.28.50:501][831]LogModuleManager: Shutting down and abandoning module ContentBrowserData (341)
+[2024.05.03-23.28.50:501][831]LogModuleManager: Shutting down and abandoning module TreeMap (338)
+[2024.05.03-23.28.50:501][831]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (335)
+[2024.05.03-23.28.50:501][831]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (333)
+[2024.05.03-23.28.50:501][831]LogModuleManager: Shutting down and abandoning module GameplayCameras (331)
+[2024.05.03-23.28.50:501][831]LogModuleManager: Shutting down and abandoning module AnimationSharing (329)
+[2024.05.03-23.28.50:501][831]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (327)
+[2024.05.03-23.28.50:501][831]LogModuleManager: Shutting down and abandoning module ControlRig (325)
+[2024.05.03-23.28.50:501][831]LogModuleManager: Shutting down and abandoning module Constraints (324)
+[2024.05.03-23.28.50:501][831]LogModuleManager: Shutting down and abandoning module LevelSequence (322)
+[2024.05.03-23.28.50:501][831]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (319)
+[2024.05.03-23.28.50:501][831]LogModuleManager: Shutting down and abandoning module IKRig (317)
+[2024.05.03-23.28.50:501][831]LogModuleManager: Shutting down and abandoning module AnimationData (315)
+[2024.05.03-23.28.50:501][831]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (313)
+[2024.05.03-23.28.50:501][831]LogModuleManager: Shutting down and abandoning module Paper2D (311)
+[2024.05.03-23.28.50:501][831]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (309)
+[2024.05.03-23.28.50:501][831]LogModuleManager: Shutting down and abandoning module EnhancedInput (307)
+[2024.05.03-23.28.50:501][831]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (305)
+[2024.05.03-23.28.50:502][831]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (303)
+[2024.05.03-23.28.50:502][831]LogModuleManager: Shutting down and abandoning module AndroidFileServer (301)
+[2024.05.03-23.28.50:502][831]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (299)
+[2024.05.03-23.28.50:502][831]LogModuleManager: Shutting down and abandoning module PacketHandler (297)
+[2024.05.03-23.28.50:502][831]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (295)
+[2024.05.03-23.28.50:502][831]LogModuleManager: Shutting down and abandoning module AnimGraph (293)
+[2024.05.03-23.28.50:502][831]LogModuleManager: Shutting down and abandoning module TimeManagement (291)
+[2024.05.03-23.28.50:502][831]LogModuleManager: Shutting down and abandoning module AnimationDataController (289)
+[2024.05.03-23.28.50:502][831]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (287)
+[2024.05.03-23.28.50:502][831]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (285)
+[2024.05.03-23.28.50:502][831]LogModuleManager: Shutting down and abandoning module MediaAssets (283)
+[2024.05.03-23.28.50:502][831]LogModuleManager: Shutting down and abandoning module Overlay (281)
+[2024.05.03-23.28.50:502][831]LogModuleManager: Shutting down and abandoning module OverlayEditor (280)
+[2024.05.03-23.28.50:502][831]LogModuleManager: Shutting down and abandoning module VREditor (277)
+[2024.05.03-23.28.50:502][831]LogModuleManager: Shutting down and abandoning module StringTableEditor (275)
+[2024.05.03-23.28.50:502][831]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (273)
+[2024.05.03-23.28.50:502][831]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (271)
+[2024.05.03-23.28.50:502][831]LogModuleManager: Shutting down and abandoning module FunctionalTesting (269)
+[2024.05.03-23.28.50:502][831]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (267)
+[2024.05.03-23.28.50:502][831]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (266)
+[2024.05.03-23.28.50:502][831]LogModuleManager: Shutting down and abandoning module UMG (263)
+[2024.05.03-23.28.50:502][831]LogModuleManager: Shutting down and abandoning module UMGEditor (262)
+[2024.05.03-23.28.50:502][831]LogModuleManager: Shutting down and abandoning module EditorStyle (257)
+[2024.05.03-23.28.50:502][831]LogModuleManager: Shutting down and abandoning module SlateReflector (255)
+[2024.05.03-23.28.50:502][831]LogModuleManager: Shutting down and abandoning module Slate (253)
+[2024.05.03-23.28.50:502][831]LogModuleManager: Shutting down and abandoning module SlateCore (251)
+[2024.05.03-23.28.50:503][831]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (249)
+[2024.05.03-23.28.50:503][831]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (247)
+[2024.05.03-23.28.50:503][831]LogModuleManager: Shutting down and abandoning module UnrealEd (245)
+[2024.05.03-23.28.50:503][831]LogModuleManager: Shutting down and abandoning module MRMesh (243)
+[2024.05.03-23.28.50:503][831]LogModuleManager: Shutting down and abandoning module Messaging (241)
+[2024.05.03-23.28.50:503][831]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (239)
+[2024.05.03-23.28.50:503][831]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (237)
+[2024.05.03-23.28.50:503][831]LogModuleManager: Shutting down and abandoning module Networking (235)
+[2024.05.03-23.28.50:503][831]LogModuleManager: Shutting down and abandoning module Core (233)
+[2024.05.03-23.28.50:503][831]LogModuleManager: Shutting down and abandoning module AssetDefinition (231)
+[2024.05.03-23.28.50:503][831]LogModuleManager: Shutting down and abandoning module MovieSceneTools (229)
+[2024.05.03-23.28.50:503][831]LogModuleManager: Shutting down and abandoning module CurveEditor (228)
+[2024.05.03-23.28.50:503][831]LogModuleManager: Shutting down and abandoning module Sequencer (226)
+[2024.05.03-23.28.50:503][831]LogModuleManager: Shutting down and abandoning module KismetCompiler (223)
+[2024.05.03-23.28.50:503][831]LogModuleManager: Shutting down and abandoning module MeshBuilder (221)
+[2024.05.03-23.28.50:503][831]LogModuleManager: Shutting down and abandoning module NaniteBuilder (219)
+[2024.05.03-23.28.50:503][831]LogModuleManager: Shutting down and abandoning module MeshUtilities (217)
+[2024.05.03-23.28.50:503][831]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (216)
+[2024.05.03-23.28.50:503][831]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (215)
+[2024.05.03-23.28.50:503][831]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (214)
+[2024.05.03-23.28.50:503][831]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (212)
+[2024.05.03-23.28.50:503][831]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (210)
+[2024.05.03-23.28.50:503][831]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (208)
+[2024.05.03-23.28.50:503][831]LogModuleManager: Shutting down and abandoning module MaterialBaking (204)
+[2024.05.03-23.28.50:503][831]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (201)
+[2024.05.03-23.28.50:514][831]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (197)
+[2024.05.03-23.28.50:514][831]LogModuleManager: Shutting down and abandoning module ShaderPreprocessor (195)
+[2024.05.03-23.28.50:514][831]LogModuleManager: Shutting down and abandoning module DerivedDataCache (193)
+[2024.05.03-23.28.51:503][831]LogModuleManager: Shutting down and abandoning module TargetPlatform (191)
+[2024.05.03-23.28.51:503][831]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (190)
+[2024.05.03-23.28.51:503][831]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (188)
+[2024.05.03-23.28.51:503][831]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (186)
+[2024.05.03-23.28.51:503][831]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (184)
+[2024.05.03-23.28.51:503][831]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (182)
+[2024.05.03-23.28.51:503][831]LogModuleManager: Shutting down and abandoning module AudioFormatBink (180)
+[2024.05.03-23.28.51:503][831]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (177)
+[2024.05.03-23.28.51:503][831]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (175)
+[2024.05.03-23.28.51:503][831]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (173)
+[2024.05.03-23.28.51:503][831]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (171)
+[2024.05.03-23.28.51:503][831]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2024.05.03-23.28.51:503][831]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (167)
+[2024.05.03-23.28.51:503][831]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (165)
+[2024.05.03-23.28.51:503][831]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (163)
+[2024.05.03-23.28.51:503][831]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (161)
+[2024.05.03-23.28.51:503][831]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (159)
+[2024.05.03-23.28.51:503][831]LogModuleManager: Shutting down and abandoning module TextureFormat (157)
+[2024.05.03-23.28.51:503][831]LogModuleManager: Shutting down and abandoning module ImageWrapper (156)
+[2024.05.03-23.28.51:503][831]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (154)
+[2024.05.03-23.28.51:503][831]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (152)
+[2024.05.03-23.28.51:503][831]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (150)
+[2024.05.03-23.28.51:503][831]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (148)
+[2024.05.03-23.28.51:503][831]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (146)
+[2024.05.03-23.28.51:503][831]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (144)
+[2024.05.03-23.28.51:503][831]LogModuleManager: Shutting down and abandoning module TurnkeySupport (141)
+[2024.05.03-23.28.51:503][831]LogModuleManager: Shutting down and abandoning module InputCore (138)
+[2024.05.03-23.28.51:503][831]LogModuleManager: Shutting down and abandoning module Settings (136)
+[2024.05.03-23.28.51:503][831]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (134)
+[2024.05.03-23.28.51:503][831]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (132)
+[2024.05.03-23.28.51:503][831]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (131)
+[2024.05.03-23.28.51:503][831]LogModuleManager: Shutting down and abandoning module Chaos (128)
+[2024.05.03-23.28.51:503][831]LogModuleManager: Shutting down and abandoning module GeometryCore (127)
+[2024.05.03-23.28.51:503][831]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (124)
+[2024.05.03-23.28.51:503][831]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (123)
+[2024.05.03-23.28.51:503][831]LogModuleManager: Shutting down and abandoning module AVEncoder (122)
+[2024.05.03-23.28.51:503][831]LogModuleManager: Shutting down and abandoning module D3D12RHI (118)
+[2024.05.03-23.28.51:503][831]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (116)
+[2024.05.03-23.28.51:503][831]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (114)
+[2024.05.03-23.28.51:503][831]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (112)
+[2024.05.03-23.28.51:504][831]LogModuleManager: Shutting down and abandoning module ChunkDownloader (110)
+[2024.05.03-23.28.51:504][831]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (108)
+[2024.05.03-23.28.51:504][831]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (106)
+[2024.05.03-23.28.51:504][831]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (104)
+[2024.05.03-23.28.51:505][831]LogModuleManager: Shutting down and abandoning module XMPP (99)
+[2024.05.03-23.28.51:505][831]LogModuleManager: Shutting down and abandoning module WebSockets (98)
+[2024.05.03-23.28.51:523][831]LogModuleManager: Shutting down and abandoning module HTTP (95)
+[2024.05.03-23.28.51:523][831]LogHttp: Warning: [FHttpManager::Flush] FlushReason was Shutdown. Unbinding delegates for 1 outstanding Http Requests:
+[2024.05.03-23.28.51:523][831]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBA21B715-421B-1894-A9DE-07A0D7AF3870%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=d9d282854d1f25fc68d8ceb6f2d37193%7Cf6285148222d400cb4c98803465f3ed5%7C6d90fa80-1a34-4320-8e80-d4726ea78568&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2024.05.03-23.28.51:537][831]LogModuleManager: Shutting down and abandoning module SSL (94)
+[2024.05.03-23.28.51:538][831]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (90)
+[2024.05.03-23.28.51:538][831]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (88)
+[2024.05.03-23.28.51:538][831]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (86)
+[2024.05.03-23.28.51:538][831]LogModuleManager: Shutting down and abandoning module ChaosCloth (84)
+[2024.05.03-23.28.51:538][831]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (82)
+[2024.05.03-23.28.51:538][831]LogModuleManager: Shutting down and abandoning module NiagaraShader (80)
+[2024.05.03-23.28.51:538][831]LogModuleManager: Shutting down and abandoning module VariantManagerContent (78)
+[2024.05.03-23.28.51:538][831]LogModuleManager: Shutting down and abandoning module GLTFExporter (76)
+[2024.05.03-23.28.51:538][831]LogModuleManager: Shutting down and abandoning module DatasmithContent (74)
+[2024.05.03-23.28.51:539][831]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (72)
+[2024.05.03-23.28.51:539][831]LogModuleManager: Shutting down and abandoning module PixWinPlugin (70)
+[2024.05.03-23.28.51:539][831]LogModuleManager: Shutting down and abandoning module RenderDocPlugin (68)
+[2024.05.03-23.28.51:539][831]RenderDocPlugin: plugin has been unloaded.
+[2024.05.03-23.28.51:539][831]LogModuleManager: Shutting down and abandoning module WmfMedia (66)
+[2024.05.03-23.28.51:541][831]LogModuleManager: Shutting down and abandoning module Media (65)
+[2024.05.03-23.28.51:542][831]LogModuleManager: Shutting down and abandoning module AISupportModule (62)
+[2024.05.03-23.28.51:542][831]LogModuleManager: Shutting down and abandoning module DesktopPlatform (60)
+[2024.05.03-23.28.51:542][831]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (58)
+[2024.05.03-23.28.51:542][831]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (56)
+[2024.05.03-23.28.51:542][831]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (54)
+[2024.05.03-23.28.51:542][831]LogModuleManager: Shutting down and abandoning module PlatformCrypto (52)
+[2024.05.03-23.28.51:542][831]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (50)
+[2024.05.03-23.28.51:542][831]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (48)
+[2024.05.03-23.28.51:542][831]LogModuleManager: Shutting down and abandoning module SourceControl (47)
+[2024.05.03-23.28.51:542][831]LogModuleManager: Shutting down and abandoning module XGEController (44)
+[2024.05.03-23.28.51:542][831]LogModuleManager: Shutting down and abandoning module FastBuildController (42)
+[2024.05.03-23.28.51:542][831]LogModuleManager: Shutting down and abandoning module AnimationModifiers (40)
+[2024.05.03-23.28.51:542][831]LogModuleManager: Shutting down and abandoning module AudioEditor (38)
+[2024.05.03-23.28.51:543][831]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2024.05.03-23.28.51:543][831]LogModuleManager: Shutting down and abandoning module Virtualization (34)
+[2024.05.03-23.28.51:543][831]LogModuleManager: Shutting down and abandoning module MessageLog (33)
+[2024.05.03-23.28.51:543][831]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2024.05.03-23.28.51:543][831]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2024.05.03-23.28.51:543][831]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2024.05.03-23.28.51:543][831]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2024.05.03-23.28.51:544][831]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2024.05.03-23.28.51:544][831]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2024.05.03-23.28.51:544][831]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2024.05.03-23.28.51:544][831]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2024.05.03-23.28.51:544][831]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2024.05.03-23.28.51:544][831]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2024.05.03-23.28.51:544][831]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2024.05.03-23.28.51:544][831]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2024.05.03-23.28.51:544][831]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2024.05.03-23.28.51:544][831]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2024.05.03-23.28.51:544][831]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2024.05.03-23.28.51:635][831]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.05.03-23.28.51:691][831]LogExit: Exiting.
+[2024.05.03-23.28.51:729][831]Log file closed, 05/03/24 19:28:51
